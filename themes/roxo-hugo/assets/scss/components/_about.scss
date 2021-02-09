@@ -1,12 +1,33 @@
 .site-about{
-  &-header{
-    padding-top: 80px;
-    background-color: $gray;
-    @include mobile{
-      padding-top: 60px;
-      text-align: center;
+    &-header{
+      padding: 150px 0 0;
+      @include mobile{
+        padding: 100px 0 0;
+      }
+      h1{
+        font-weight: 600;
+        letter-spacing: 5px;
+        margin-bottom: 20px;
+        font-color: $primary-color;
+        @include mobile{
+          font-size: 35px;
+        }
+      }
+      h3{ 
+        font-color: $secondary-color;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        @include mobile{
+          font-size: 35px;
+        }   
+      }   
+
+      p{
+        line-height: 28px;
+        margin-bottom: 0;
+      }
     }
-  }
+
   &-wrapper{
     display: flex;
     align-items: center;
