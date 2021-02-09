@@ -16,15 +16,15 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
-    name    = "Portfolio"
+    name    = "Research"
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
-    name    = "Blog"
+    name    = "Tutorials"
     url     = "blog"
     weight  = 4
   [[menu.nav]]
-    name    = "Get in touch"
+    name    = "Get DART"
     url     = "contact"
     weight  = 5
 
@@ -51,8 +51,9 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/cta-background.jpg"
-    heading               = "a community facility for ensemble data assimilation"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "The Data Asssimilation Research Testbed"
+    #tagline               = "WE WORK HARD, WE PLAY HARD"
+    tagline               = "a community facility for ensemble data assimilation"
     primary_button        = "Research"
     primary_button_url    = "portfolio"
     secondary_button      = "Contact Us"
@@ -64,7 +65,7 @@ summarylength = 25
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
 
   [params.call_to_action]
-    enable              = true
+    enable              = false
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
@@ -76,20 +77,20 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = "1850 Table Mesa Dr.<br>Boulder, CO 80305"
+      #phone   = "409-896-1444"
+      email   = "dart@ucar.edu"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "About Us"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Research"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Blog"
+          name = "Learning"
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Contact"
