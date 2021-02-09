@@ -23,13 +23,14 @@
     h1{
       color: $white;
       font-weight: 400;
-      font-size: 25px;
+      font-size: 50px;
       line-height: 60px;
       letter-spacing: 1px;
+      text-transform: uppercase;
     }
   }
   &-docs{
-    background: $primary-color;
+    background: $secondary-color;
     width: 40%;
     padding: 70px 38px;
     @include desktop{
@@ -57,5 +58,18 @@
       font-weight: 300;
       margin-bottom: 0;
     }
+  }
+  &-documentation{
+    width: 60%;
+    padding-left: 50px;
+    @include desktop{
+      width: 100%;
+      padding: 0 38px;
+    }   
+    p{  
+      font-size: 25px;
+      font-weight: 300;
+      margin-bottom: 0;
+    }   
   }
 }
