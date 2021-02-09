@@ -1,44 +1,31 @@
 enable  : true
-title   : Team that makes the difference.
+title   : The DAReS team
 members  :
   - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : JEFFERY ANDERSON
+    designation : Senior Scientist
 
   - image       : images/team/team-member-two.jpg
-    name        : MONTINO RIAU
-    designation : Product Manager
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : MOHA GHARAMTI
+    designation : Scientist
 
   - image       : images/team/team-member-three.jpg
-    name        : ALEX NAASRI
-    designation : Chief Design Officer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : BEN JOHNSON
+    designation : Associate Scientist
 
   - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : TIM HOAR
+    designation : Associate Scientist
+
+  - image       : images/team/team-member-four.jpg
+    name        : KEVIN RAEDER
+    designation : Associate Scientist
 
   - image       : images/team/team-member-five.jpg
-    name        : SANTIO ANDRESS
-    designation : Content Researcher
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+    name        : HELEN KERSHAW
+    designation : Software Engineer
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/team-member-five.jpg
+    name        : GLEN ROMAIN
+    designation : Project Scientist
+

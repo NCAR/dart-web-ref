@@ -1,8 +1,8 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "IMPACT OF DART"
 counter_item: 
   - title: "Models supported"
-    number: "250"
+    number: "20"
 
   - title: "Publications"
     number: "100"
