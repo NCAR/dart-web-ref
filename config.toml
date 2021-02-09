@@ -89,7 +89,7 @@ summarylength = 25
           name = "Research"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
-          name = "Learning"
+          name = "Tutorials"
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Contact"
