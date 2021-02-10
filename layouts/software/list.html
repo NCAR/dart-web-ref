@@ -1,10 +1,48 @@
 {{ define "main" }}
 
 <section class="site-software-header">
+  <div class="container">
+    <div class="row justify-content-right">
+      <div class="col-lg-12 text-center">
+        <h1>{{ .Title }}</h1>
+        <h6> {{ .Params.tagline }} </h6>
+        <p>
+      <div class="col-lg-12 text-left">
+          {{ .Params.dart }}
+      </div>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-software-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-software-wrapper">
+          <div class="site-software-git">
+             <center>
+              <a target="_blank" href="https://github.com/NCAR/DART">
+              <h1>
+              Get Dart
+              </h1>
+              </a>
+             </center>
+          </div> 
+          <div class="site-software-documentation">
+            <p> 
+              {{ .Params.code }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 
-<section class="site-software-header">
+<section class="site-software-section">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -29,54 +67,12 @@
   </div>
 </section>
 
-
-<section class="site-software-header">
+<section class="site-software-section">
   <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="site-software-wrapper">
-          <div class="site-software-git">
-             <center>
-              <a target="_blank" href="https://github.com/NCAR/DART">
-              <h1>
-              Get Dart
-              </h1>
-              </a>
-             </center>
-          </div> 
-          <div class="site-software-documentation">
-            <p>
-              {{ .Params.Documentation }}
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 
-
-
-<section class="site-expertise">
-  <div class="container">
-    <div class="row">
-      {{ with .Params.expertise_title }}
-      <div class="col-md-5">
-        <div class="section-title">
-          <h2>{{ . }}</h2>
-        </div>
-      </div>
-      {{ end }}
-      <div class="col-md-6">
-        <ul class="site-expertise-list">
-          {{ range .Params.expertise_sectors }}
-          <li>{{ . }}</li>
-          {{ end }}
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
+{{ partial "get_help.html" . }}
 
 {{ partial "clients.html" . }}
 

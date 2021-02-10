@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="site-contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5">
+        <h1 class="site-contact-title">
+          {{ .Params.heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-expertise-list">
+        <h2>
+          <li> Email us at dart@ucar.edu</li>
+          <li> File a <a href="https://github.com/NCAR/DART/issues">github issue</a></li>
+        </ul>
+       </h2>
+      </div>
+</section>
+{{ end }}
