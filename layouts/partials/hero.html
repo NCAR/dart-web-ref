@@ -4,15 +4,15 @@
   <section class="site-hero" style="background-image: url('{{ .background_image }}');">
     <div class="container">
       <div class="row">
-        <div class="col-lg-10 mx-auto">
-          <div class="site-hero-content text-center">
-           <video width="320" height="240" autoplay loop muted>
+        <div class="col-lg-6 mx-auto">
+           <video width=100% autoplay loop muted>
              <source src="/images/lorentz_attractor.mp4" />
            </video>
-            <h6>{{ .tagline }}</h6>
-            <h1>
-              {{ .heading }}
-            </h1>
+        </div>
+        <div class="col-lg-6 mx-auto">
+            <h1> {{ .heading }} </h1>
+          <h6>{{ .tagline }}</h6>
+          <div class="site-hero-content">
             <ul class="site-hero-content-buttons">
               <li>
                 <a href="{{ .primary_button_url | absURL }}" class="btn btn-secondary">
@@ -33,8 +33,8 @@
                 </a>
               </li>
             </ul>
-          </div>
-        </div>
+         </div>
+         </div>
       </div>
     </div>
     <a href="#counter" class="site-hero-scroll scroll-to">
