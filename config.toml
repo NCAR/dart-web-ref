@@ -21,7 +21,7 @@ summarylength = 25
     weight  = 3
   [[menu.nav]]
     name    = "Tutorials"
-    url     = "blog"
+    url     = "tutorials"
     weight  = 4
   [[menu.nav]]
     name    = "Get DART"
@@ -90,7 +90,7 @@ summarylength = 25
           url  = "research"
         [[params.footer.sitemap.link]]
           name = "Tutorials"
-          url  = "blog"
+          url  = "tutorials"
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"

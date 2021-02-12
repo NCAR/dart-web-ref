@@ -4,27 +4,41 @@ members  :
   - image       : images/team/team-member-one.jpg
     name        : JEFFERY ANDERSON
     designation : Senior Scientist
-
+    ncarpage    : https://staff.ucar.edu/users/jla/
+    github      : https://github.com/jlaucar
+ 
   - image       : images/team/team-member-five.jpg
     name        : MOHA GHARAMTI
     designation : Scientist
+    ncarpage    : https://staff.ucar.edu/users/gharamti
+    github      : https://github.com/mgharamti
 
   - image       : images/team/team-member-one.jpg
     name        : BEN JOHNSON
     designation : Associate Scientist
+    ncarpage    : https://staff.ucar.edu/users/johnsonb
+    github      : https://github.com/johnsonb-ucar
 
   - image       : images/team/team-member-five.jpg
     name        : TIM HOAR
     designation : Associate Scientist
+    ncarpage    : https://staff.ucar.edu/users/thoar
+    github      : https://github.com/timhoar
 
   - image       : images/team/team-member-one.jpg
     name        : KEVIN RAEDER
     designation : Associate Scientist
+    ncarpage    : https://staff.ucar.edu/users/raeder/
+    github      : https://github.com/kdraeder
 
   - image       : images/team/team-member-five.jpg
     name        : HELEN KERSHAW
     designation : Software Engineer
+    ncarpage    : https://staff.ucar.edu/users/hkershaw/
+    github      : https://github.com/hkershaw-brown
 
   - image       : images/team/team-member-five.jpg
     name        : GLEN ROMAIN
     designation : Project Scientist
+    ncarpage    : https://staff.ucar.edu/users/romine
+    github      : https://github.com/NCAR/DART

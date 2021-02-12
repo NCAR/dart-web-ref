@@ -15,6 +15,8 @@
   <link rel="stylesheet" href="{{ $bootstrap.Permalink }}" />
   {{ "<!-- font-awesome -->" | safeHTML }}
   <link rel="stylesheet" href="{{ "font-awesome/css/font-awesome.min.css" | absURL }}" />
+  {{ "<!-- icomoon -->" | safeHTML }}
+  <link rel="stylesheet" href="{{ "icomoon/style.css" | absURL }}" />
   {{ "<!-- Main Stylesheets -->" | safeHTML }}
   {{ $style := resources.Get "scss/style.scss" | resources.ToCSS | minify }}
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
