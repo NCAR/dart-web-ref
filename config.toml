@@ -52,7 +52,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background-size.jpg"
-    heading               = "The Data Asssimilation Research Testbed"
+    heading               = "The Data Assimilation Research Testbed"
     tagline               = "a community facility for ensemble data assimilation"
     primary_button        = "Research"
     primary_button_url    = "portfolio"
