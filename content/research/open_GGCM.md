@@ -1,7 +1,7 @@
 ---
 title: "Open Geospace General Circulation Model"
 date: 2019-12-23T15:55:44+06:00
-type: portfolio
+type: research
 image: "images/science_nuggets/OpenGGCM_graphic.png"
 category: ["GEOSPACE MODELING"]
 project_images: ["images/science_nuggets/OpenGGCM_graphic.png"]

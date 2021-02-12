@@ -1,7 +1,7 @@
 ---
 title: "Chemical Data Assimilation"
 date: 2019-12-23T15:44:46+06:00
-type: portfolio
+type: research
 image: "images/science_nuggets/ChemicalWeather_NHprojection_full.png"
 category: ["ATMOSPHERIC CHEMISTRY"]
 project_images: ["images/science_nuggets/ChemicalWeather_NHprojection_full.png"]

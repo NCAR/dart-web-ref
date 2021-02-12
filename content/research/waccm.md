@@ -1,7 +1,7 @@
 ---
 title: "Whole Atmosphere Community Climate Model"
 date: 2019-12-23T15:56:43+06:00
-type: portfolio
+type: research
 image: "images/science_nuggets/waccm_dart_ssw_t.png"
 category: ["CLIMATE MODELING"]
 project_images: ["images/science_nuggets/waccm_dart_ssw_t.png"]
