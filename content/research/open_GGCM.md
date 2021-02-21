@@ -1,5 +1,6 @@
 ---
 title: "Open Geospace General Circulation Model"
+weight: 20
 date: 2019-12-23T15:55:44+06:00
 type: research
 image: "images/science_nuggets/OpenGGCM_graphic.png"
