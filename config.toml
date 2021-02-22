@@ -34,7 +34,7 @@ summarylength = 25
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "DART | Data Assimilation Testbed"
-  author = "StaticMania"
+  author = "DAReS"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
