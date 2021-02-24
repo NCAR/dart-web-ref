@@ -27,6 +27,18 @@
       max-width: 78px;
     }
   }
+  .navbar-second-brand{
+    margin: 0;
+    padding: 20px;
+    img{
+      max-height: 50px;
+      width: auto;
+      height: auto;
+    @include mobile {
+      max-height: 0;
+    }  
+    }
+  }
   .nav-item{
     @include desktop{
       text-align: center;
