@@ -1,11 +1,12 @@
-{{ with .Site.Data.collab }}
+{{ with .Site.Params.Collab }}
+  {{ if .enable }}
+  <section class="site-collab" style="background-image: url('{{ .background_image }}');">
+    <div class="container">
+      <span class="site-collab-title">
+        <h1> {{ .heading | safeHTML }} </h1>
+      </span>
+  </section>
 
-<section class="site-collab" style="background-image: url('{{ .background_image }}');">
-  <div class="container">
-    <span class="site-collab-title">
-      <h1> {{ .heading | safeHTML }} </h1>
-    </span>
-</section>
-
+  {{ end }}
 {{ end }}
 
