@@ -1,0 +1,22 @@
+{{ with .Site.Data.collab }}
+
+<section class="site-collab" style="background-image: url('{{ .background_image }}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6">
+        <h1 class="site-collab-title">
+          {{ .heading | safeHTML }}
+        </h1>
+      </div>
+      <div class="col-md-6">
+        <ul class="site-collab-list">
+        <h2>
+          <li> Email us at <a href="mailto: dart@ucar.edu">dart@ucar.edu</a> </li>
+          <li> File a <a href="https://github.com/NCAR/DART/issues">github issue</a></li>
+        </ul>
+       </h2>
+      </div>
+</section>
+
+{{ end }}
+
