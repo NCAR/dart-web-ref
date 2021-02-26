@@ -18,7 +18,6 @@ DART\_LAB consists of PDF tutorial materials and MATLAB® exercises.
 See below for links to the PDF files and a list of the 
 corresponding MATLAB scripts.
 
-
 #### DART\_LAB tutorial slides
 
 [1. The basics in 1D.](/pdfs/dart_lab/DART_LAB_Section01.pdf)
@@ -50,7 +49,7 @@ matlab
 ````
 
 In the `matlab` subdirectory are a set of MATLAB scripts and 
-(graphical user interface (GUI) programs which are exercises that go with the 
+graphical user interface (GUI) programs which are exercises that go with the 
 tutorial. Each is interactive with settings that can be changed and 
 rerun to explore various options. A valid
 [MATLAB](http://www.mathworks.com/products/matlab/)
