@@ -142,25 +142,12 @@
     }
   }
   &-pubs{
-    padding: 40px 0 40px;
-    background: $gray;
+    padding: 0px 0 40px;
+    background: $white;
     text-align: center;
     @include tablet{
-      padding: 40px 0 40px;
+      padding: 0px 0 40px;
     }
-    h1{
-      font-size: 60px;
-      font-weight: 600;
-      margin-bottom: 20px;
-      color: $primary-color;
-      @include mobile{
-       font-size: 30px;
-      }
-    }
-    a{
-      color: $secondary-color;
-    }
-
  }
   &-pagination{
     margin-top: 40px;
