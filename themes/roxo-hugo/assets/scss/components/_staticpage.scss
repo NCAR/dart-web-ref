@@ -1,7 +1,7 @@
 .site-staticpage{
   &-header{
     padding-top:150px;
-    background-color: $primary-color;
+    background-color: $secondary-color;
     padding-bottom: 10px;
     @include mobile{
       padding-top: 100px;

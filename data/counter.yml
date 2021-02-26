@@ -6,6 +6,7 @@ counter_item:
 
   - title: "Publications"
     number: "100"
+    url: "publications"
 
   - title: "ASP postdocs"
     number: "8"
