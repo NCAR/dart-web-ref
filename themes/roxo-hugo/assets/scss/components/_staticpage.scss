@@ -1,11 +1,11 @@
 .site-staticpage{
   &-header{
     padding-top:150px;
-    background-color: $secondary-color;
+    text-align: center;
     padding-bottom: 10px;
+    background-color: $secondary-color;
     @include mobile{
       padding-top: 100px;
-      text-align: center;
     }
     h2{
      color: $white;

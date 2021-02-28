@@ -1,6 +1,7 @@
 ---
 title     : "Presentations featuring DART"
 layout    : "staticpage"
+color     : "#0779bf"
 ---
 
 ----
