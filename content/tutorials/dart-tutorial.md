@@ -1,7 +1,7 @@
 ---
 title: "The DART tutorial"
 date: 2019-12-24T13:32:54+06:00
-image: images/blog/blog-post-03.jpg
+image: images/tutorial/PIA17896_orig_front.jpg
 feature_image: images/blog/blog-details-image.jpg
 category: Fortran
 weight: 2
