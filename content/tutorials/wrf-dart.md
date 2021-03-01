@@ -1,8 +1,8 @@
 ---
 title: "WRF-DART tutorial"
 date: 2020-01-24T13:36:06+06:00
-image: images/blog/blog-post-02.jpg
-feature_image: images/blog/blog-details-image.jpg
+image: images/tutorial/ISS-20_Thunderstorms_on_the_Brazilian_Horizon_front.jpg
+feature_image: images/tutorial/ISS-20_Thunderstorms_on_the_Brazilian_Horizon_thin.jpg
 category: Fortran
 weight: 3
 author: dart
