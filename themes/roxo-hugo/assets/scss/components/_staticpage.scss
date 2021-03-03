@@ -3,12 +3,12 @@
     padding-top:150px;
     text-align: center;
     padding-bottom: 10px;
-    background-color: $secondary-color;
+    background-color: $gray; 
     @include mobile{
       padding-top: 100px;
     }
     h2{
-     color: $white;
+     color: $text-color-dark;
     }
   }
   &-section{
@@ -21,7 +21,7 @@
   }
     &-details{
       padding-top:40px;
-      background-color: $gray;
+      background-color: $white;
       background-position: center center;
       img{
         max-width: 100%;
