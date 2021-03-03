@@ -1,7 +1,6 @@
 ---
 title       : "Publications featuring DART"
 layout      : "staticpage"
-color       : "#012169"
 ---
 
 This list gets updated as frequently as possible, however some more
