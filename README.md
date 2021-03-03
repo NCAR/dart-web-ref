@@ -74,6 +74,23 @@ Edit `data/team.yml` to add a new team member
     github      : https://github.com/mhamilton
 ````
 
+#### Adding an item to the impact list
+
+Edit `data/counter.yml` to add an item to the 
+
+````
+  - title: "Models supported"
+    number: "20"
+````
+
+If you want the counter to link to another page, add a url
+
+````
+  - title: "Publications"
+    number: "100"
+    url: "publications"
+````
+
 #### Adding a new reseach project
 
 You can use Hugo to create a new project.md file with the hugo front matter. In the top level dircetcory run the command:
@@ -92,9 +109,34 @@ You can use Hugo to create a new tutorial.md file with the hugo front matter. In
 hugo new tutorials/my-cool-tutorial.md
 ````
 
+This creates `content/tutorials/my-cool-tutorials.md`
+
 #### Adding a regular static page
 
-You can create a 
+You can create a regular page with
+
+````
+hugo new my-new-page.md
+````
+
+This creates `content/my-new-page.md`
+
+#### Using re-structured-text rather than markdown
+
+To use rst, you will need to have rst2hml installed. To install rst2html in
+a virtual environment:
+
+````
+python -m venv web
+source web/bin/activate
+pip install rst2html
+````
+
+Run hugo in this virtual environment to use `.rst`.
+
+## Changing layouts
+
+The `layouts` directory contatins
 
 ## Publishing the website at dart.ucar.edu
 
