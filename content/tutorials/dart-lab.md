@@ -3,7 +3,6 @@ title: "DART\_LAB"
 date: 2020-01-24T13:36:06+06:00
 image: images/blog/blog-post-04.jpg
 feature_image: images/blog/blog-details-image.jpg
-background_image: "/images/backgrounds/NCAR-Waves.png"
 weight: 1
 category: "MATLAB"
 author: dart

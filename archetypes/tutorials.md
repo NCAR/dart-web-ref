@@ -4,7 +4,8 @@ weight:
 date: {{ .Date }}
 type: research
 image: ""
-category: []
-project_images: []
+feature_image: "" 
+category: ""
+author: dart
 ---
 
