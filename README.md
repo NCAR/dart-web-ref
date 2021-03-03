@@ -9,8 +9,13 @@ The version I have been using to build the site is Hugo Static Site Generator v0
 For more details see:<br>
 [hugo install instructions](https://gohugo.io/getting-started/installing/)
 
-There are 
+There are two repositories to be aware of:
 
+[https://github.com/NCAR/dart-web.git](https://github.com/NCAR/dart-web.git) Is the repository used to build the site. 
+
+The website is hosted via github pages on dart.ucar.edu
+
+[https://github.com/NCAR/DART.git](https://github.com/NCAR/DART.git)
 
 ## Building the site locally
 This is a static site built with hugo. Hugo has a built in webserver so you can 
@@ -71,7 +76,7 @@ Edit `data/team.yml` to add a new team member
 
 #### Adding a new reseach project
 
-You can use hugo to create a new project.md file with the hugo front matter. In the top level dircetcory run the command:
+You can use Hugo to create a new project.md file with the hugo front matter. In the top level dircetcory run the command:
 
 ````
 hugo new research/my-cool-project.md
@@ -79,19 +84,29 @@ hugo new research/my-cool-project.md
 
 This creates `content/research/my-cool-project.md`
 
+#### Adding a new tutorial page
+
+You can use Hugo to create a new tutorial.md file with the hugo front matter. In the top level dircetcory run the command:
+
+````
+hugo new tutorials/my-cool-tutorial.md
+````
+
+#### Adding a regular static page
+
+You can create a 
+
 ## Publishing the website at dart.ucar.edu
 
 The dart webiste is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
 
+You can clone the single branch gh-pages into a DART-gh-pages directory with:
 
 ````
-git clone https://github.com/NCAR/DART.git DART-gh-pages
-cd DART-gh-pages
-git checkout gh-pages
+git clone -b gh-pages --single-branch https://github.com/NCAR/DART.git DART-gh-pages
 ````
 
-You will notice that the gh-pages branch only has the dart website.  This is where you should put your updated
-webiste.
+You will notice that the gh-pages branch only has the dart website.  This is where you should put your updated website.
 
 ````
 cd dart-web 
