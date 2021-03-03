@@ -62,6 +62,31 @@ Where XXXX is the port number given in the hugo message.  Hugo uses live reload,
 
 ## Adding content
 
+The hugo directory structure looks like this:
+
+````
+.
+├── archetypes
+├── config.toml
+├── content
+├── data
+├── layouts
+├── static
+└── themes
+````
+
+The following are used when adding content to the website:
+
+`config.toml` Is site wide settings, for example, the base-url and the navigation items
+
+`content` contains the website pages. Each directory is a section. Single pages are in the top level
+
+`data` contains data to pull into the website, for example the team members info.
+
+`static` contains files used in the website as-is, such as images and pdfs and the CNAME file. 
+
+
+
 #### Adding a new team member
 
 Edit `data/team.yml` to add a new team member
@@ -134,11 +159,46 @@ pip install rst2html
 
 Run hugo in this virtual environment to use `.rst`.
 
-## Changing layouts
+#### Using NCAR icons
 
-The `layouts` directory contatins
+You can use NCAR icons.  To see a demo of all the NCAR icons available, 
+
+````
+open static/icomoon/demo.html
+````
+
+To use a particular icon:
+
+````
+<span class="icon-data-assimilation"></span>
+````
+
+## Changing page layouts and appearance
+
+The hugo directory structire looks like this:
+
+````
+.
+├── archetypes
+├── config.toml
+├── content
+├── data
+├── layouts
+├── static
+└── themes
+````
+
+The `layouts` directory contatins .html layouts.  These override the default settings for the theme.
+
+The `themes` directory contains the .scss files that control the look of the site. 
+
+`themes/roxo-hugo/assets/scss/`
+
+**Future work**   create a dart-theme rather than using roxo-hugo + many overrides. 
 
 ## Publishing the website at dart.ucar.edu
+
+**Note, these instructions are for when the dart webiste has been switched to gh-pages**
 
 The dart webiste is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
 
