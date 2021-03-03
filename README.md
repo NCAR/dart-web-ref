@@ -212,8 +212,11 @@ You will notice that the gh-pages branch only has the dart website.  This is whe
 
 ````
 cd dart-web 
-hugo -d ../DART-gh-pages
+hugo --minify -d ../DART-gh-pages
 ````
+
+The `--minify` option squishes the html to reduce load times.  You may want to omit `--minify` if you want to read the html more easily.
+
 
 Replace `../DART-gh-pages` with wherever you checked out the DART repo. 
 
