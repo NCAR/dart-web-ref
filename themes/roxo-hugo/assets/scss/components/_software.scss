@@ -1,21 +1,20 @@
 .site-software{
   &-header{
     padding-top: 180px;
-    background-color: $primary-color;
-    background-image: linear-gradient(to right, black, $primary-color);
-    padding-bottom: 20px;
+    background-color: $gray;
     @include mobile{
       padding-top: 100px;
       text-align: center;
     }
     h1{
-      color: $white; 
+      color: $text-color-dark; 
       font-weight: 600;
       font-size: 55px;
       line-height: 60px;
+      padding-bottom: 20px;
     } 
     h6{ 
-     color: $white;
+     color: $primary-color;
      font-size: 20px;
     }   
   }
@@ -28,7 +27,7 @@
     }   
   }
   &-content{
-    background: $white;
+    background: $gray;
     width: 100%;
     padding: 45px 50px;
     bottom: 0;
