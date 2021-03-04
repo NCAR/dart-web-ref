@@ -7,14 +7,29 @@ category: Fortran
 weight: 3
 author: dart
 ---
-### WRF-DART a tutorial
+
+The WRF-DART tutorial steps through a WRF-DART experiment.
+The experiment covers the continental United States and uses a 50 member ensemble initialized from 
+NCEP’s Global Forecast System (GFS) initial conditions at 2017/04/27 00:00 UTC. 
+The data included in the tutorial covers upto 2017/04/30 18:00 UTC.
+During this period, there was a strong rain and wind event that affected a large portion of
+the United States, causing **record rains**, **localized flooding**, and numerous **tornadoes**.
+For more information on the physical account of this case, see
+[weather.gov](https://www.weather.gov/lot/2017Apr2930_rainfall).
 
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+The WRF-DART tutorial is bundled with [DART](https://github.com/NCAR/DART.git).  
 
-> "Its WRF and DART. In a tutorial"
+DART can be downloaded from github:
 
+````
+git clone https://github.com/NCAR/DART.git
+````
 
-> DAReS team
+To navigate to the WRF-DART tutorial:
+ 
+````
+cd DART/models/wrf/tutorial
+````
 
-
+If this is your first time using DART, we recommend working through the [DART tutorial](/tutorials/dart-tutorial) before trying WRF-DART.
