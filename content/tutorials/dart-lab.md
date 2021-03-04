@@ -40,7 +40,7 @@ You can download [DART](https://github.com/NCAR/DART) from github using
 git clone https://github.com/NCAR/DART.git
 ````
 
-To try the MATLAB hands-on exercies, start MATLAB in the `DART/docs/DART_LAB` directory.
+To try the MATLAB hands-on exercises, start MATLAB® in the `DART/docs/DART_LAB` directory.
 
 ````
 cd DART/docs/DART_LAB
