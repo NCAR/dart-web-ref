@@ -57,7 +57,7 @@
         <div class="site-software-wrapper">
           <div class="site-software-docs">
              <center>
-              <a target="_blank" href="https://dart-documentation.readthedocs.io/en/latest/">
+              <a target="_blank" href="{{ .Params.readthedocs | absURL }}">
               <h1>
               Read the docs <span class="icon-data-assimilation"></span>
               </h1>
@@ -83,6 +83,5 @@
 {{ partial "get_help.html" . }}
 
 {{ partial "clients.html" . }}
-
 
 {{ end }}
