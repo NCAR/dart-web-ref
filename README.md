@@ -3,7 +3,7 @@
 
 ## Requirements: Hugo
 
-To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases). Choose a hugo_extended version. 
+To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases). Choose an _extended version. 
 
 The version I have been using to build the site is Hugo Static Site Generator v0.80.0-792EF0F4/extended darwin/amd64 BuildDate: 2020-12-31T13:44:15Z
 which you can download from here:
