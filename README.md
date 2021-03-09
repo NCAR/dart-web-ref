@@ -1,5 +1,6 @@
 # DART github pages site
 
+
 ## Requirements: Hugo
 
 To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases).
