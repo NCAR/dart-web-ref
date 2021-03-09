@@ -102,7 +102,7 @@ Edit `data/team.yml` to add a new team member
 
 #### Adding an item to the impact list
 
-Edit `data/counter.yml` to add an item to the 
+Edit `data/counter.yml` to add an item to the impact list
 
 ````
   - title: "Models supported"
