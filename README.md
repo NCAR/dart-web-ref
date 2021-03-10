@@ -3,9 +3,12 @@
 
 ## Requirements: Hugo
 
-To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases).
+To install Hugo on your mac you can download a binary from the [hugo release page](https://github.com/gohugoio/hugo/releases). Choose an _extended version. 
 
 The version I have been using to build the site is Hugo Static Site Generator v0.80.0-792EF0F4/extended darwin/amd64 BuildDate: 2020-12-31T13:44:15Z
+which you can download from here:
+https://github.com/gohugoio/hugo/releases/tag/v0.80.0
+
 
 For more details see:<br>
 [hugo install instructions](https://gohugo.io/getting-started/installing/)
@@ -102,7 +105,7 @@ Edit `data/team.yml` to add a new team member
 
 #### Adding an item to the impact list
 
-Edit `data/counter.yml` to add an item to the 
+Edit `data/counter.yml` to add an item to the impact list
 
 ````
   - title: "Models supported"
