@@ -19,10 +19,11 @@
     }   
   }
   &-section{
-    padding-top:40px;
+    padding-top:0px;
+    padding-bottom:40px;
     background-color: $white;
     @include mobile{
-      padding-top: 60px;
+      padding-top: 0px;
       text-align: center;
     }   
   }
@@ -114,6 +115,9 @@
       font-weight: 300;
       margin-bottom: 0;
     }   
+  }
+  &-spacer{
+    width:80px;
   }
     &-buttons{
       margin: 0;
