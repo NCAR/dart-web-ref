@@ -1,10 +1,9 @@
 .site-about{
     &-header{
       background: $gray;
-      padding: 180px 0 0;
-      padding-bottom: 20px;
+      padding: 180px 0 30px;
       @include mobile{
-        padding: 100px 0 0;
+        padding: 100px 0 20px;
       }
       h1{
         font-weight: 600;

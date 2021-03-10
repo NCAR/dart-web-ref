@@ -20,7 +20,7 @@
   }
   &-section{
     padding-top:0px;
-    padding-bottom:40px;
+    padding-bottom:80px;
     background-color: $gray;
     @include mobile{
       padding-top: 0px;
@@ -31,7 +31,7 @@
     background: $gray;
     width: 100%;
     padding: 20px 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     
     span{
       color: $secondary-color;
@@ -47,7 +47,7 @@
     background: $primary-color;
     border-radius: 25px;
     width: 40%;
-    padding: 70px 38px;
+    padding: 25px 10px;
     @include desktop{
       width: 100%;
       margin-bottom: 20px;
@@ -55,7 +55,7 @@
     h1{
       color: $white;
       font-weight: 400;
-      font-size: 50px;
+      font-size: 35px;
       line-height: 60px;
       letter-spacing: 1px;
       text-transform: uppercase;
@@ -70,61 +70,35 @@
     @extend .site-software-git;
     background: $secondary-color;
     h1{
-    font-size: 35px;
+    font-size: 20px;
     }
-  }
-  &-description{
-    width: 60%;
-    padding-left: 50px;
-    @include desktop{
-      width: 100%;
-      padding: 0 38px;
-    }
-    p{
-      font-size: 25px;
-      font-weight: 300;
-      margin-bottom: 0;
-    }
-  }
-  &-documentation{
-    width: 60%;
-    padding-left: 50px;
-    @include desktop{
-      width: 100%;
-      padding: 0 38px;
-    }   
-    p{  
-      font-size: 25px;
-      font-weight: 300;
-      margin-bottom: 0;
-    }   
   }
   &-spacer{
     width:80px;
   }
-    &-buttons{
-      margin: 0;
-      padding: 0;
-      li{ 
-        display: inline-block;
+  &-buttons{
+    margin: 0;
+    padding: 0;
+    li{ 
+      display: inline-block;
+      @include mobile{
+        display: block;
+      }   
+      &:not(:last-child){
+        margin-right: 30px;
         @include mobile{
-          display: block;
-        }   
-        &:not(:last-child){
-          margin-right: 30px;
-          @include mobile{
-            margin-right: 0;
-            margin-bottom: 20px;
-          }   
-        }   
-        .btn{
-          font-weight: 600;
-          @include mobile{
-            width: 90%;
-            margin: 0 auto;
-            display: block;
-          }   
+          margin-right: 0;
+          margin-bottom: 20px;
         }   
       }   
-    }  
+      .btn{
+        font-weight: 600;
+        @include mobile{
+          width: 90%;
+          margin: 0 auto;
+          display: block;
+        }   
+      }   
+    }   
+  }  
 }

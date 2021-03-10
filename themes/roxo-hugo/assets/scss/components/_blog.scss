@@ -1,6 +1,7 @@
 .site{
   &-blog{
     @extend .site-project;
+    padding-top: 80px;
     background-color: $white;
     @include mobile{
       padding: 70px 0;
