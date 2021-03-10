@@ -8,7 +8,7 @@
   justify-content: center;
   background-color: $gray;
   @include desktop{
-    height: auto;
+    height: 120vh;
     padding: 200px 0;
   }
   @include mobile{
