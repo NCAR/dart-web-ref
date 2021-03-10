@@ -67,28 +67,11 @@
     }
   }
   &-docs{
+    @extend .site-software-git;
     background: $secondary-color;
-    border-radius: 25px;
-    width: 40%;
-    padding: 70px 38px;
-    @include desktop{
-      width: 100%;
-      margin-bottom: 20px;
-    }   
-    h1{ 
-      color: $white;
-      font-weight: 400;
-      font-size: 30px;
-      line-height: 60px;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+    h1{
+    font-size: 35px;
     }
-    a{  
-      color: $white;
-      transition: all 0.3s $site-ease;
-      display: block;
-    }   
-   
   }
   &-description{
     width: 60%;
