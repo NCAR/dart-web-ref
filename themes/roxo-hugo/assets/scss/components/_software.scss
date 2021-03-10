@@ -29,8 +29,9 @@
   &-content{
     background: $gray;
     width: 100%;
-    padding: 20px 50px;
-    bottom: 0;
+    padding: 20px 20px;
+    padding-bottom: 20px;
+    
     span{
       color: $secondary-color;
       font-weight: 600;
