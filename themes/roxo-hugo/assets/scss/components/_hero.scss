@@ -7,8 +7,9 @@
   align-items: center;
   justify-content: center;
   background-color: $gray;
+  padding-top: 100px;
   @include desktop{
-    height: 120vh;
+    height: auto;
     padding: 200px 0;
   }
   @include mobile{
