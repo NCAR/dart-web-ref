@@ -34,7 +34,7 @@ corresponding MATLAB scripts.
 
 The DART\_LAB materials are bundled with DART. 
 
-You can download [DART](https://github.com/NCAR/DART) from github using 
+You can download [DART](https://github.com/NCAR/DART) from Github using 
 
 ````
 git clone https://github.com/NCAR/DART.git

@@ -11,7 +11,7 @@ author: dart
 The WRF-DART tutorial steps through a WRF-DART experiment.
 The experiment covers the continental United States and uses a 50 member ensemble initialized from 
 NCEP’s Global Forecast System (GFS) initial conditions at 2017/04/27 00:00 UTC. 
-The data included in the tutorial covers upto 2017/04/30 18:00 UTC.
+The data included in the tutorial covers up to 2017/04/30 18:00 UTC.
 During this period, there was a strong rain and wind event that affected a large portion of
 the United States, causing **record rains**, **localized flooding**, and numerous **tornadoes**.
 For more information on the physical account of this case, see
