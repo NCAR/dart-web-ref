@@ -1,4 +1,4 @@
-baseURL       = "https://hkershaw-brown.github.io/"
+baseURL       = "https://dart.ucar.edu/"
 languageCode  = "en-us"
 title         = "DART | The Data Assimilation Research Testbed"
 theme         = "roxo-hugo"
