@@ -122,7 +122,7 @@ If you want the counter to link to another page, add a url
 
 #### Adding a new reseach project
 
-You can use Hugo to create a new project.md file with the hugo front matter. In the top level dircetcory run the command:
+You can use Hugo to create a new project.md file with the Hugo front matter. In the top level directory run the command:
 
 ````
 hugo new research/my-cool-project.md
@@ -149,6 +149,39 @@ hugo new my-new-page.md
 ````
 
 This creates `content/my-new-page.md`
+
+#### Adding a redirect
+
+You can use _aliases_ to add redirects. For example, publications used
+to be on the page:
+
+````
+https://dart.ucar.edu/pages/Publications.html
+````
+
+which no longer exists on dart.ucar.edu. Rather than having `pages/Publications.html` give a 404 error, you can have `pages/Publications.html` redirect to the new publications page `https://dart.ucar.edu/publications/`. To do this, add an aliases line to the front matter of `publications.md`. 
+
+````
+---
+title       : "Publications featuring DART"
+layout      : "staticpage"
+aliases     :
+   - /pages/Publications.html
+---
+````
+
+You can add multiple aliases for a page:
+
+````
+---
+title       : "Publications featuring DART"
+layout      : "staticpage"
+aliases     :
+   - /pages/Publications.html
+   - /pages/More-publications.html
+---
+
+````
 
 #### Using re-structured-text rather than markdown
 
@@ -179,7 +212,7 @@ To use a particular icon:
 
 ## Changing page layouts and appearance
 
-The hugo directory structire looks like this:
+The hugo directory structure looks like this:
 
 ````
 .
@@ -192,7 +225,7 @@ The hugo directory structire looks like this:
 └── themes
 ````
 
-The `layouts` directory contatins .html layouts.  These override the default settings for the theme.
+The `layouts` directory contains .html layouts.  These override the default settings for the theme.
 
 The `themes` directory contains the .scss files that control the look of the site. 
 
@@ -202,7 +235,7 @@ The `themes` directory contains the .scss files that control the look of the sit
 
 ## Publishing the website at dart.ucar.edu
 
-**Note, these instructions are for when the dart webiste has been switched to gh-pages**
+**Note, these instructions are for when the dart website has been switched to gh-pages**
 
 The dart webiste is hosted on the `gh-pages` branch on  https://github.com/NCAR/DART.git
 
@@ -243,7 +276,7 @@ git push origin gh-pages
 You may want to do something cooler and automate push process in the future. 
 
 
-By the magic of gitpages, this becomes the workshop website at:
+By the magic of gitpages, this becomes the website at:
 
 ````
 https://dart.ucar.edu/
