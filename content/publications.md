@@ -28,6 +28,34 @@ The Data Assimilation Research Testbed: A Community Facility.
 *Bulletin of the American Meteorological Society*, **90**, 1283-1296,
 [doi:10.1175/2009BAMS2618.1](http://dx.doi.org/10.1175/2009BAMS2618.1)
 
+
+---
+## 2021
+---
+
+![](/images/pin4.gif) **Laskar, F. I., Pedatella, N. M., Codrescu, M. V., 
+   Eastes, R. W., Evans, J. S., Burns, A. G., & McClintock, W.**, 2021  
+     Impact of GOLD retrieved thermospheric temperatures on a whole atmosphere data
+      assimilation model.  
+     *Journal of Geophysical Research: Space Physics*,
+     **126**, e2020JA028646. 
+     [doi.org/10.1029/2020JA028646](https://doi.org/10.1029/2020JA028646)
+
+ ![](/images/pin4.gif) **Zhang, Y.-F., Bitz, C. M., Anderson, J. L., Collins, N. S., Hoar, T. J., 
+   Raeder, K. D., and Blanchard-Wrigglesworth, E.**, 2021  
+     Estimating parameters in a sea ice model using an ensemble Kalman filter.  
+     *The Cryosphere*, **15**, 1277–1284, 
+     [doi.org/10.5194/tc-15-1277-2021](https://doi.org/10.5194/tc-15-1277-2021).
+
+  ![](/images/pin4.gif) **Gaubert, B., Emmons, L. K., Raeder, K., Tilmes, S., Miyazaki, K.,
+     Arellano Jr., A. F., Elguindi, N., Granier, C., Tang, W., Barré, J., Worden, H. M.,
+     Buchholz, R. R., Edwards, D. P., Franke, P., Anderson, J. L., Saunois, M., Schroeder, J.,
+     Woo, J.-H., Simpson, I. J., Blake, D. R., Meinardi, S., Wennberg, P. O., Crounse, J., Teng, A.,
+     Kim, M., Dickerson, R. R., He, H., Ren, X., Pusede, S. E., and Diskin, G. S.**, 2020:  
+     Correcting model biases of CO in East Asia: impact on oxidant distributions during KORUS-AQ.  
+     *Atmos. Chem. Phys.*, **20**, 14617–14647, 
+     [doi.org/10.5194/acp-20-14617-2020](https://doi.org/10.5194/acp-20-14617-2020).
+
 ---
 ## 2020
 ---
