@@ -6,4 +6,6 @@ description : "The NCAR Data Assimilation Initiative was founded to create and t
 small_group: "Our small group is comprised of experts in software design, algorithm development, large-model implementation and execution, observations and observation operators, and hardware/software portability. We have given many presentations on DART - our software facility for ensemble data assimilation, and have held several workshops for young researchers interested in DA."
 expertise_title: "Expertise"
 expertise_sectors: ["Algorithm development", "Software design", "Large-model implementation and execution", "Observations and observation operators", "Software portability"]
+aliases: 
+    - pages/About_Us.html
 ---
