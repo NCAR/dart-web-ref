@@ -42,3 +42,9 @@ members  :
     designation : Project Scientist
     ncarpage    : https://staff.ucar.edu/users/romine
     github      : https://github.com/NCAR/DART
+
+  - image       : images/team/iceberg4.jpg
+    name        : BRETT RACZKA
+    designation : Associate Scientist
+    ncarpage    : https://staff.ucar.edu/browse/people/26663
+    github      : https://github.com/NCAR/DART
