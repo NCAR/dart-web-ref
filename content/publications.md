@@ -1,7 +1,8 @@
 ---
 title       : "Publications featuring DART"
 layout      : "staticpage"
-aliases   : ["/pages/Publications.html"]
+aliases     :
+   - /pages/Publications.html
 ---
 
 This list gets updated as frequently as possible, however some more
