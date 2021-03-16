@@ -5,6 +5,7 @@ type: research
 image: "images/science_nuggets/L96GoodRankHistogram_full.png"
 category: [LOW ORDER MODELS]
 project_images: ["images/science_nuggets/L96GoodRankHistogram_full.png", "images/science_nuggets/L96BadRankHistogram_full.png"]
+weight: 50
 ---
 
 Lorenz, E. N., and K. A. Emanuel, 1998:  

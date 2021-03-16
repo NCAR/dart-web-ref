@@ -5,6 +5,7 @@ type: research
 image: "images/science_nuggets/CMAQ_teasergraphic_full.png"
 category: [ATMOSPHERIC CHEMISTRY]
 project_images: ["images/science_nuggets/CMAQ_teasergraphic_full.png"]
+weight: 80
 ---
 
 This project describes an integrated approach to modeling atmospheric chemistry with trace gas data assimilation. Specifically, we ran CMAQ from within DART to assimilate both synthetic and real observations of CO for the period of June 2001. 

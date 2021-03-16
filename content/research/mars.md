@@ -5,6 +5,7 @@ type: research
 image: "images/science_nuggets/MarsWRF_teaser_full.png"
 category: [SPACE]
 project_images: ["images/science_nuggets/MarsWRF_teaser_full.png"]
+weight: 70
 ---
 
 The planetary atmospheres group at Caltech has produced a global and planetary version of NCAR's Weather Research and Forecasting (WRF) Model. We are using DART to attempt data assimilation within the Mars atmosphere using the Mars version of WRF, MarsWRF, as our GCM.

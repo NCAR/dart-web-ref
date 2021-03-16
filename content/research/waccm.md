@@ -5,6 +5,7 @@ type: research
 image: "images/science_nuggets/waccm_dart_ssw_t.png"
 category: ["CLIMATE MODELING"]
 project_images: ["images/science_nuggets/waccm_dart_ssw_t.png"]
+weight: 100
 ---
 
 This is an excerpt from [Applying the science and technology of data assimilation](https://www2.cisl.ucar.edu/news/applying-the-science-and-technology-of-data-assimilation) by _Brian Bevirt_ 07/11/2017 as part of a _CISL News_ series describing the many ways CISL improves modeling beyond providing supercomputing systems and facilities.

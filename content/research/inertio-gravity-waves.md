@@ -5,7 +5,7 @@ type: research
 image: "images/science_nuggets/Zagar_1_full.png"
 category: [GLOBAL CIRCULATION]
 project_images: ["images/science_nuggets/Zagar_1_full.png"]
-weight: 40
+weight: 30
 ---
 
 This project aims at quantifying the impact of various motion types in analysis and forecast fields by using normal modes. The DART/CAM is the main analysis system used in the project. The first question addressed is about how large part of the atmospheric energy is associated with the inertio-gravity motions, an important part of the global circulation primarily because of their role in the tropical system.

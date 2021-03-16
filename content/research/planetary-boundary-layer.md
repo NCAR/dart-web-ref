@@ -5,6 +5,7 @@ type: research
 image: "images/science_nuggets/JoshDorita_graphic_oneframe_full.png"
 category: [PLANETARY BOUNDARY LAYER]
 project_images: ["images/science_nuggets/JoshDorita_graphic_oneframe_full.png"]
+weight: 60
 ---
 
 A long-term goal of this work is to find an efficient system for probabilistic planetary boundary layer (PBL) nowcasting that can be employed wherever surface observations are present. One approach showing promise is the use of a single column model (SCM) and ensemble filter data assimilation techniques.
