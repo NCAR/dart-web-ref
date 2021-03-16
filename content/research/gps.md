@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: research
 image: "images/science_nuggets/GPS_LEO_full.png"
 category: ["TROPICAL CYCLONES"]
-project_images: ["images/science_nuggets/ChemicalWeather_NHprojection_full.png"]
+project_images: ["images/science_nuggets/GPS_LEO_full.png"]
 weight: 40
 ---
 
