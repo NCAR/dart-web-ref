@@ -16,9 +16,9 @@
             <img src="{{ . | absURL }}" alt="project image">
             {{ end }}
           </div>
-          {{ if .NextInSection }}
+          {{ if .PrevInSection }}
           <div class="site-project-single-action">
-            <a href="{{.NextInSection.Permalink}}">
+            <a href="{{.PrevInSection.Permalink}}">
               <span class="link-area">
                 <span data-text="Next Project">
                   Next Project
