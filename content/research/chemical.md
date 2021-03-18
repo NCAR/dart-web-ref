@@ -2,9 +2,9 @@
 title: "Chemical Data Assimilation"
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/ChemicalWeather_NHprojection_full.png"
+image: "images/science_nuggets/ChemicalWeather_NHprojection.png"
 category: ["ATMOSPHERIC CHEMISTRY"]
-project_images: ["images/science_nuggets/ChemicalWeather_NHprojection_full.png"]
+project_images: ["images/science_nuggets/ChemicalWeather_NHprojection.png"]
 weight: 90
 ---
 
