@@ -3,7 +3,7 @@ title: "Model for Prediction across Scales"
 weight: 10
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/MPAS_spaghetti_Z500mb_anal.2008090512.png"
+image: "images/science_nuggets/mpas_teaser.png"
 category: ["WEATHER PREDICTION"]
 project_images: ["images/science_nuggets/MPAS_spaghetti_Z500mb_anal.2008090512.png", "images/science_nuggets/MPAS_grid_components.png"]
 ---
@@ -27,9 +27,9 @@ built on MPAS's unstructured centroidal Voronoi mesh,
 and does not regrid to latitude-longitude grids. In MPAS, the finite-volume
 approach based on a C-grid staggering retains prognostic equations for mass
 at the center of finite-volume cells and for the normal component of velocity
-(<strong><i>u</i></strong>) at the faces (or edges in 2D) of the cells.
-The normal component of velocity (<strong><i>u</i></strong>) at cell edges is then used to
-reconstruct zonal and meridional winds at cell centers (<strong><i>V</i></strong>)
+(u) at the faces (or edges in 2D) of the cells.
+The normal component of velocity (u) at cell edges is then used to
+reconstruct zonal and meridional winds at cell centers (V)
  using radial basis functions (RBFs).
 To avoid the singularity issue on the poles, the cartesian coordinate is employed.
 
@@ -41,7 +41,7 @@ Mass fields are then horizontally interpolated from the cell centers to the obse
 location using a barycentric (e.g., area-weighted) interpolation.
 
 While the observed wind quantities are zonal and meridional winds, the normal
-component of velocity (<i>u</i>) is the only prognostic wind variable in MPAS,
+component of velocity (u) is the only prognostic wind variable in MPAS,
 we thus implement a couple of different ways of assimilating wind observations.
 The options determine which wind variables are used in the forward operator to
 compute expected observation values; how the horizontal interpolation is computed
