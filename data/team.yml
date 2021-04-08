@@ -2,7 +2,7 @@ enable  : true
 title   : The DAReS team
 members  :
   - image       : images/team/iceberg.jpg
-    name        : JEFFERY ANDERSON
+    name        : JEFFREY ANDERSON
     designation : Senior Scientist
     ncarpage    : https://staff.ucar.edu/users/jla/
     github      : https://github.com/jlaucar
