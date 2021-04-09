@@ -193,12 +193,13 @@
       margin-bottom: 40px;
     }
     &-image{
-      display: flex;
-      flex-wrap: wrap;
       margin-bottom: 30px;
       img{
         justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
         width: 80%;
+        height: auto;
         &:nth-child(2n){
           justify-content: center;
         }
@@ -211,6 +212,11 @@
       margin-bottom: 50px;
       p{
         margin-bottom: 30px;
+      }
+      blockquote{
+        p{  
+          color: $text-color-dark;
+        }   
       }
     }
     &-action{

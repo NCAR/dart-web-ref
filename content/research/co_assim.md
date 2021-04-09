@@ -4,11 +4,21 @@ date: 2021-02-21T14:48:20-07:00
 type: research
 image: "images/science_nuggets/CMAQ_graphic_teaser.png"
 category: [ATMOSPHERIC CHEMISTRY]
-project_images: ["images/science_nuggets/CMAQ_graphic_teaser.png", "images/science_nuggets/CMAQ_graphic2.png"]
 weight: 80
 ---
 
-This project describes an integrated approach to modeling atmospheric chemistry with trace gas data assimilation. Specifically, we ran CMAQ from within DART to assimilate both synthetic and real observations of CO for the period of June 2001. 
+> This project describes an integrated approach to modeling atmospheric
+> chemistry with trace gas data assimilation. Specifically, we ran CMAQ
+> from within DART to assimilate both synthetic and real observations of
+> CO for the period of June 2001.
+
+
+Alexis Zubrow
+
+{{< figure src="/images/science_nuggets/CMAQ_graphic_teaser.png" class="site-project-single-image" >}} 
+{{< figure src="/images/science_nuggets/CMAQ_graphic2.png" class="site-project-single-image" >}} 
+
+> Fractional bias between the mean of the ensembles with and without data assimilation and the original full CMAQ run.
 
 An integrated approach to modeling atmospheric chemistry with
 trace gas data assimilation is a relatively new focus of the
@@ -32,7 +42,12 @@ real observations of CO for the period of June 2001.
 We argue that it is a viable approach for further data assimilation
 experiments and potentially for air quality forecasting.
 
-The figure shows fractional bias between the mean of the ensembles with and 
-without data assimilation and the original full CMAQ run.
 
-Alexis Zubrow, azubrow@unc.edu
+
+- Zubrow, A., L. Chen and V. R. Kotamarthi, **2008**  
+EAKF-CMAQ: Introduction and evaluation of a data assimilation for CMAQ 
+based on the ensemble adjustment Kalman filter,  
+_J. Geophys. Res._, **113**, D09302,
+[doi:10.1029/2007JD009267](https://doi.org/10.1029/2007JD009267)
+
+

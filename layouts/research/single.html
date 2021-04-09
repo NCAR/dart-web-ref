@@ -2,7 +2,6 @@
 
 <section class="site-project-single-section">
   <div class="container">
-    <div class="row">
       <div class="col-lg-9 mx-auto">
         <div class="site-project-single">
           <h1>
@@ -10,11 +9,6 @@
           </h1>
           <div class="site-project-single-description">
             {{ .Content }}
-          </div>
-          <div class="site-project-single-image">
-            {{ range .Params.project_images }}
-            <img src="{{ . | absURL }}" alt="project image">
-            {{ end }}
           </div>
           {{ if .PrevInSection }}
           <div class="site-project-single-action">
@@ -30,7 +24,6 @@
           {{ end }}
         </div>
       </div>
-    </div>
   </div>
 </section>
 
