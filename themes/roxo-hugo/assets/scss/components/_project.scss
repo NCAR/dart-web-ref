@@ -195,6 +195,7 @@
     &-image{
       display: flex;
       flex-wrap: wrap;
+      flex-direction: column;
       margin-bottom: 30px;
       img{
         justify-content: center;
