@@ -113,6 +113,18 @@ summarylength = 25
         [[params.footer.sitemap.link]]
           name = "Contact"
           url  = "contact"
+      # Footer Research
+      [params.footer.research]
+        title  = "Research"
+        [[params.footer.research.link]]
+          name = "Featured Projects"
+          url  = "research"
+        [[params.footer.research.link]]
+          name = "Publications"
+          url  = "publications"
+        [[params.footer.research.link]]
+          name = "Presentations"
+          url  = "presentations"
       # Footer Social Media
       # Social media not used currently 
       [params.footer.social]

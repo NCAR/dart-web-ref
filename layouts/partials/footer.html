@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       {{ with .Site.Params.footer.contactInfo }}
-      <div class="col-lg-3 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <p class="site-footer-widget-description">
@@ -16,12 +16,24 @@
       </div>
       {{ end }}
       {{ with .Site.Params.footer.sitemap }}
-      <div class="col-lg-2 col-md-6">
+      <div class="col-lg-2 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <ul class="site-footer-widget-links">
             {{ range .link }}
             <li><a href="{{ .url | absURL }}">{{ .name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.footer.research }}
+      <div class="col-lg-2 col-md-4">
+        <div class="site-footer-widget">
+          <h5 class="site-footer-widget-title">{{ .title }}</h5>
+          <ul class="site-footer-widget-links">
+            {{ range .link }}
+              <li><a href="{{ .url }}">{{ .name }}</a></li>
             {{ end }}
           </ul>
         </div>
@@ -39,44 +51,44 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <center> © {{ now.Year }} UCAR </center>
         </div>
       </div>
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://www.ucar.edu/privacy-notice">Privacy</a> </h5>
         </div>
       </div>
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://www.ucar.edu/cookie-other-tracking-technologies-notice">Cookies</a> </h5>
         </div>
       </div>
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://www.ucar.edu/terms-of-use">Terms of Use</a> </h5>
         </div>
       </div>
-      <div class="col-lg-2 col-md-8">
+      <div class="col-lg-2 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://www.ucar.edu/notification-copyright-infringement-digital-millenium-copyright-act">Copyright Issues</a> </h5>
         </div>
       </div>
-      <div class="col-lg-2 col-md-8">
+      <div class="col-lg-2 col-md-4">
         <div class="site-footer-widget">
           <center>
           <h5 class="site-footer-widget-title"> <a href="https://nsf.gov">Sponsored by NSF</a> </h5>
           </center>
         </div>
       </div>
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://ncar.ucar.edu">NCAR Home</a> </h5>
         </div>
       </div>
-      <div class="col-lg-1 col-md-8">
+      <div class="col-lg-1 col-md-4">
         <div class="site-footer-widget">
           <h5 class="site-footer-widget-title"> <a href="https://www.ucar.edu">UCAR Home</a> </h5>
         </div>
