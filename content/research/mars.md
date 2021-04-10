@@ -4,7 +4,6 @@ date: 2021-02-21T14:54:01-07:00
 type: research
 image: "images/science_nuggets/Williamsburg_Fig_WRF_teaser.png"
 category: [SPACE]
-project_images: ["images/science_nuggets/Williamsburg_Fig_WRF.png"]
 weight: 70
 ---
 

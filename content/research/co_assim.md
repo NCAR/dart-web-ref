@@ -12,8 +12,7 @@ weight: 80
 > from within DART to assimilate both synthetic and real observations of
 > CO for the period of June 2001.
 
-
-Alexis Zubrow
+> Alexis Zubrow
 
 {{< figure src="/images/science_nuggets/CMAQ_graphic_teaser.png" class="site-project-single-image" >}} 
 {{< figure src="/images/science_nuggets/CMAQ_graphic2.png" class="site-project-single-image" >}} 
