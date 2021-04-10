@@ -5,6 +5,5 @@ date: {{ .Date }}
 type: research
 image: ""
 category: []
-project_images: []
 ---
 
