@@ -4,7 +4,7 @@ date: 2021-02-21T14:58:06-07:00
 type: research
 image: "images/science_nuggets/Zagar_1.png"
 category: [GLOBAL CIRCULATION]
-weight: 30
+weight: 120
 ---
 
 > This project aims at quantifying the impact of various motion 

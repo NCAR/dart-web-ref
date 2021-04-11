@@ -1,0 +1,79 @@
+---
+title: "Predicting Floods and Protecting Lives"
+date: 2021-01-01T14:58:06-07:00
+type: research
+image: "images/science_nuggets/ats_local_200_1_teaser.png"
+category: [Flood Prediction]
+weight: 30
+---
+
+Hurricanes are among the deadliest weather phenomena on earth. The intensity of
+a hurricane is often categorized using the Saffir-Simpson Hurricane Wind Scale,
+ranging between 1 to 5. Hurricane damages are usually associated with strong
+winds and other related impacts, including storm surge, rainfall-induced floods
+and tornadoes.
+
+Hurricane Florence (category 4) hit the Carolinas in September 2018 and caused
+major flooding in coastal communities leading to 51 fatalities and damage
+estimates of around $25 billion. According the National Weather Service,
+certain locations in NC recorded over 30 inches of rain exceeding the highest
+single-storm rainfall amounts ever seen in the state.
+
+Given this extreme threat on human life, predicting major floods due to
+torrential rain is an urgent necessity. This, however, remains a challenge
+given the short time-scale of the flood combined with multiple uncertainties
+that limit the predictive capability of our water models. To tackle this,
+scientists in the Data Assimilation Research Section (DAReS), in collaboration
+with scientists at NCAR’s Research Application Lab (RAL) and the University of
+Texas at Arlington (UT Arlington) have recently developed a state-of-the-art
+ensemble prediction system that aims to increase the accuracy of flood
+forecasting during a hurricane landfall. The team coupled WRF-Hydro (the
+research compartment of the National Water Model; Gochis et al. 2020) with the
+Data Assimilation Research Testbed (DART; Anderson et al. 2009) and assimilated
+hourly streamflow data, collected from a hundred United States Geological
+Survey (USGS) gauges in the affected region. The framework uses 80 different
+streamflow realizations, incorporating multiphysics uncertainty and
+time-varying uncertainty in the forcing fluxes. The team also developed two
+novel data assimilation techniques that helped improve the prediction accuracy
+of the flood; namely, along-the-stream (ATS) localization and adaptive
+covariance inflation (Gharamti 2018). “ATS localization, which is a
+topologically-based updating scheme, helped reduce sampling errors for ungauged
+basins at specific sites such as the Rocky River near Norwood, NC” describes
+Dr. Gharamti from the DAReS team. He further adds “Adaptive inflation, on the
+other hand, was extremely useful at mitigating extreme model and boundary
+biases particularly near Pee Dee River in SC.” 
+
+{{< figure src="/images/science_nuggets/ats_local_200_1.png" class="site-project-single-image" >}} 
+
+Dr. McCreight from RAL really enjoyed the collaborative environment of this
+work adding “Having weekly meetings where there is an opportunity to look and
+investigate various hydrographs together, was indispensable for the success of
+the projects.” Concerning future plans, Dr. Gharamti said “Despite the success
+of this work, looking ahead we plan to further improve the assimilation
+framework by adding nonlinear streamflow updates that respect the non-Gaussian
+(positive) nature of the variable. This can be done by a statistical
+transformation, commonly referred to as Gaussian Anamorphosis.”
+
+{{< figure src="/images/science_nuggets/pee_dee_hydrograph.png" class="site-project-single-image" >}} 
+
+{{< figure src="/images/science_nuggets/fig_system_schematic.png" class="site-project-single-image" >}} 
+
+The team submitted their research to Hydrology and Earth System Sciences, a
+publication of the European Geophysical Union, where it is currently in review.
+The project was led by Moha Gharamti (DAReS) and James McCreight (RAL) and
+included contributions from Arezoo RafieeiNasab (RAL), Seong Jin Noh
+(UT-Arlington; now at Kumoh National Institute of Technology in South Korea),
+Tim Hoar (DAReS) and Ben Johnson (DAReS).
+
+For more information, contact [Moha El Gharamti](https://staff.ucar.edu/users/gharamti) 
+by emailing gharamti@ucar.edu.
+
+**References**
+
+Anderson, J., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Avellano, A.: The data assimilation research testbed: A community facility, *Bulletin of the American Meteorological Society*, **90**, 1283–1296, 2009.
+
+Gharamti, M.: Enhanced adaptive inﬂation algorithm for ensemble ﬁlters, *Monthly Weather Review*, **146**, 623–640, 2018.
+
+Gochis, D., Barlage, M., Cabell, R., Dugger, A., Fanfarillo, A., FitzGerald, K., McAllister, M., McCreight, J., RaﬁeeiNasab, A., Read, L., Frazier, N., Johnson, D., Mattern, J. D., Karsten, L., Mills, T. J., and Fersch, B.: *WRF-Hydro® v5.1.1*, [/doi.org/10.5281/zenodo.3625238](https://doi.org/10.5281/zenodo.3625238), 2020.
+
+

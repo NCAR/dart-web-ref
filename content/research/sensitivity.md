@@ -2,7 +2,7 @@
 title: "Forecast sensitivity analysis"
 date: 2019-12-23T15:44:46+06:00
 type: research
-image: "images/science_nuggets/2005082500_f048_DLMU_sens.png"
+image: "images/science_nuggets/2005082500_f048_DLMU_sens_teaser.png"
 category: ["HURRICANE KATRINA"]
 weight: 110
 ---
