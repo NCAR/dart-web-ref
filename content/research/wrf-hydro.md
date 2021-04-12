@@ -3,7 +3,7 @@ title: "Predicting Floods and Protecting Lives"
 date: 2021-01-01T14:58:06-07:00
 type: research
 image: "images/science_nuggets/ats_local_200_1_teaser.png"
-category: [Flood Prediction]
+category: ["FLOOD PREDICTION"]
 weight: 30
 ---
 
