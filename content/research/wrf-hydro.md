@@ -74,6 +74,6 @@ by emailing gharamti@ucar.edu.
 
 - Gharamti, M.: Enhanced adaptive inﬂation algorithm for ensemble ﬁlters, *Monthly Weather Review*, **146**, 623–640, 2018.
 
-- Gochis, D., Barlage, M., Cabell, R., Dugger, A., Fanfarillo, A., FitzGerald, K., McAllister, M., McCreight, J., RaﬁeeiNasab, A., Read, L., Frazier, N., Johnson, D., Mattern, J. D., Karsten, L., Mills, T. J., and Fersch, B.: *WRF-Hydro® v5.1.1*, [/doi.org/10.5281/zenodo.3625238](https://doi.org/10.5281/zenodo.3625238), 2020.
+- Gochis, D., Barlage, M., Cabell, R., Dugger, A., Fanfarillo, A., FitzGerald, K., McAllister, M., McCreight, J., RaﬁeeiNasab, A., Read, L., Frazier, N., Johnson, D., Mattern, J. D., Karsten, L., Mills, T. J., and Fersch, B.: *WRF-Hydro® v5.1.1*, [doi.org/10.5281/zenodo.3625238](https://doi.org/10.5281/zenodo.3625238), 2020.
 
 
