@@ -22,7 +22,7 @@ illustrates the effect of zonal winds aloft on the position of Hurricane Katrina
 
 {{< figure src="/images/science_nuggets/2005082500_f048_DLMU_sens.png" class="site-project-single-image" >}} 
 
-Early Publications:
+> Early Publications:
 
 - Torn, R. D., **2010**  
 Ensemble-based Sensitivity Analysis applied to African Easterly Waves.

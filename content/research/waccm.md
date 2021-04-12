@@ -36,7 +36,7 @@ Nick Pedatella, nickp@ucar.edu
 Hanli Liu, liuh@ucar.edu  
 Jing Liu, jingliu@ucar.edu
 
-Select Publications:
+> Select Publications:
 
 - Laskar, F. I., Pedatella, N. M., Codrescu, M. V., Eastes, R. W., Evans, J. S., 
 Burns, A. G., & McClintock, W., **2021**

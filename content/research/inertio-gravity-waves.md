@@ -55,7 +55,6 @@ application of the NMFs is the diagnosis of the systematic tendencies of
 the analysis systems to place the observations into specific motions,
 usually identified as the analysis system bias.
 
-
 > Select publications:
 
 - Zagar, N., J. Tribbia, J. L. Anderson, K. Raeder and D. T. Kleist, **2010**

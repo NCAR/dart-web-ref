@@ -70,10 +70,10 @@ by emailing gharamti@ucar.edu.
 
 **References**
 
-Anderson, J., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Avellano, A.: The data assimilation research testbed: A community facility, *Bulletin of the American Meteorological Society*, **90**, 1283–1296, 2009.
+- Anderson, J., Hoar, T., Raeder, K., Liu, H., Collins, N., Torn, R., and Avellano, A.: The data assimilation research testbed: A community facility, *Bulletin of the American Meteorological Society*, **90**, 1283–1296, 2009.
 
-Gharamti, M.: Enhanced adaptive inﬂation algorithm for ensemble ﬁlters, *Monthly Weather Review*, **146**, 623–640, 2018.
+- Gharamti, M.: Enhanced adaptive inﬂation algorithm for ensemble ﬁlters, *Monthly Weather Review*, **146**, 623–640, 2018.
 
-Gochis, D., Barlage, M., Cabell, R., Dugger, A., Fanfarillo, A., FitzGerald, K., McAllister, M., McCreight, J., RaﬁeeiNasab, A., Read, L., Frazier, N., Johnson, D., Mattern, J. D., Karsten, L., Mills, T. J., and Fersch, B.: *WRF-Hydro® v5.1.1*, [/doi.org/10.5281/zenodo.3625238](https://doi.org/10.5281/zenodo.3625238), 2020.
+- Gochis, D., Barlage, M., Cabell, R., Dugger, A., Fanfarillo, A., FitzGerald, K., McAllister, M., McCreight, J., RaﬁeeiNasab, A., Read, L., Frazier, N., Johnson, D., Mattern, J. D., Karsten, L., Mills, T. J., and Fersch, B.: *WRF-Hydro® v5.1.1*, [/doi.org/10.5281/zenodo.3625238](https://doi.org/10.5281/zenodo.3625238), 2020.
 
 
