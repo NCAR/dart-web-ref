@@ -29,9 +29,9 @@ appropriate forward operators for TES and MCS.
 
 {{< figure src="/images/science_nuggets/Williamsburg_Fig_WRF.png" class="site-project-single-image" >}} 
 
-The figure shows the output from applying the DART-compliant forward
-operator for TES to our MarsWRF GCM. The black contours are Mars
-topography.
+> The figure shows the output from applying the DART-compliant forward
+> operator for TES to our MarsWRF GCM. The black contours are Mars
+> topography.
 
 - C. Lee, W. G. Lawson, M. I. Richardson, J. L. Anderson, N. Collins, 
 T. Hoar and M. Mischna, **2011**  
