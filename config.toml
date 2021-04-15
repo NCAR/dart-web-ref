@@ -33,12 +33,12 @@ summarylength = 25
     name    = "Publications"
     url     = "publications"
     parent  = "research"
-    weight  = 1 
+    weight  = 2 
   [[menu.nav]]
     name    = "Presentations"
     url     = "presentations"
     parent  = "research"
-    weight  = 1 
+    weight  = 3 
   [[menu.nav]]
     name    = "Tutorials"
     url     = "tutorials"
