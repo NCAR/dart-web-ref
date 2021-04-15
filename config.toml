@@ -20,9 +20,25 @@ summarylength = 25
     url     = "about"
     weight  = 2
   [[menu.nav]]
+    identifier = "research"
     name    = "Research"
     url     = "research"
     weight  = 3
+  [[menu.nav]]
+    name    = "Featured Projects"
+    url     = "research"
+    parent  = "research"
+    weight  = 1
+  [[menu.nav]]
+    name    = "Publications"
+    url     = "publications"
+    parent  = "research"
+    weight  = 1 
+  [[menu.nav]]
+    name    = "Presentations"
+    url     = "presentations"
+    parent  = "research"
+    weight  = 1 
   [[menu.nav]]
     name    = "Tutorials"
     url     = "tutorials"
