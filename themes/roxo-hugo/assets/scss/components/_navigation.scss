@@ -106,7 +106,11 @@
     }
 
    .dropdown-menu {
+    border: none;
     position:left;
-    background-color: $gray;
+    background-color: darken($gray, 4%);
+    @include mobile {
+      text-align: center;
+    }
   }
 }
