@@ -1,5 +1,13 @@
 <head>
+  {{ if .IsHome }}
+  <meta 
+   charset="utf-8"
+    name="description"
+    content="{{ .Site.Params.Description }}"
+  />
+  {{ else }}
   <meta charset="utf-8" />
+  {{ end }}
   <title>{{ .Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
