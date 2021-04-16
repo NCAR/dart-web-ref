@@ -101,4 +101,20 @@
       padding: 15px;
     }
   }
+   .dropdown-container {
+    position: relative;
+    }
+
+   .dropdown-toggle {
+    outline: none;
+    }
+
+   .dropdown-menu {
+    border: none;
+    position:left;
+    background-color: darken($gray, 4%);
+    @include mobile {
+      text-align: center;
+    }
+  }
 }
