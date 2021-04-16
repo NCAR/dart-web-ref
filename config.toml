@@ -53,7 +53,7 @@ summarylength = 25
   logo = "images/bam-crop.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "DART | Data Assimilation Testbed"
+  description = "DART is a community facility for ensemble DA developed and maintained by the Data Assimilation Research Section (DAReS) at the National Center for Atmospheric Research (NCAR)."
   author = "DAReS"
   # Google Analitycs
   googleAnalitycsID = "Your ID"

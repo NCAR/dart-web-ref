@@ -1,5 +1,9 @@
 <head>
-  <meta charset="utf-8" />
+  <meta 
+    charset="utf-8" 
+    name="description"
+    content="{{ .Site.Params.Description }}"
+  />
   <title>{{ .Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
