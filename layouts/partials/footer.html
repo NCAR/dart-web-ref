@@ -8,7 +8,6 @@
           <p class="site-footer-widget-description">
             {{ .address | safeHTML }}
             <br>
-            <a href="tel:{{ .phone }}">{{ .phone }}</a>
             <br>
             <a href="mailto:{{ .email }}">{{ .email }}</a>
           </p>
@@ -40,10 +39,8 @@
       </div>
       {{ end }}
       <div class="col-lg-4 col-md-6">
-        <div class="site-footer-widget">
-          <ul class="site-footer-widget-links">
-<p>The National Center for Atmospheric Research is sponsored by the National Science Foundation. Any opinions, findings and conclusions or recommendations expressed in this material do not necessarily reflect the views of the National Science Foundation.</p>
-          </ul>
+        <div class="site-footer-nsf">
+The National Center for Atmospheric Research is sponsored by the National Science Foundation. Any opinions, findings and conclusions or recommendations expressed in this material do not necessarily reflect the views of the National Science Foundation.
         </div>
       </div>
       <div class="col-lg-2 col-md-6">
