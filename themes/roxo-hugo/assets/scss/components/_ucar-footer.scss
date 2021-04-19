@@ -1,36 +1,18 @@
 .ucar-footer{
-  background: $secondary-color;
-  padding: 80px 0;
-  &-logo{
-    margin-bottom: 50px;
-    @include mobile{
-      text-align: center;
-    }
-  }
+  background:#332f21;
+
   &-widget{
+    color: $white;
     @include desktop{
-      margin-bottom: 40px;
+      margin-bottom: 20px;
     }
     @include mobile{
       text-align: center;
-    }
-    &-title{
-      color: $white;
-      margin-bottom: 30px;
-      @include desktop{
-        margin-bottom: 20px;
-      }
-    }
-    &-description{
-      color: $white;
-      line-height: 30px;
-      a{
-        color: $white;
-      }
     }
     &-links{
       margin: 0;
       padding: 0;
+      color: $white;
       li{
         list-style: none;
         a{
@@ -43,21 +25,6 @@
             padding-bottom: 9px;
           }
         }
-      }
-    }
-    &-top{
-      @include mobile{
-        text-align: center;
-        display: block;
-      }
-      img{
-        margin-bottom: 20px;
-      }
-      p{
-        color: $white;
-      }
-      &:hover{
-        text-decoration: none;
       }
     }
   }
