@@ -6,26 +6,19 @@
     @include desktop{
       margin-bottom: 20px;
     }
-    @include mobile{
       text-align: center;
-    }
-    &-links{
-      margin: 0;
-      padding: 0;
-      color: $white;
-      li{
-        list-style: none;
-        a{
-          color: $white;
-          transition: all 0.3s $site-ease;
-          display: block;
-        }
-        &:not(:last-child){
-          a{
-            padding-bottom: 9px;
-          }
-        }
-      }
-    }
+  }
+  a{  
+    color: $white;
+    transition: all 0.3s $site-ease;
+    display: block;
+  }   
+  a:hover{
+   color: #bfd600;
+   text-decoration: none;
+  }
+
+  h6{
+   font-weight: bold;
   }
 }
