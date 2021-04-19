@@ -23,7 +23,7 @@
       }
       span{
         font-family: $secondary-font;
-        color: $primary-color;
+        color: darken($primary-color,10%);
         display: block;
         margin-bottom: 10px;
       }
