@@ -166,6 +166,12 @@ The Data Assimilation Research Testbed: A Community Facility.
    *Journal of Climate*, **34(1)**, 427-446.
    [doi.org/10.1175/JCLI-D-20-0338.1](https://doi.org/10.1175/JCLI-D-20-0338.1)
 
+![](/images/pin4.gif) **Brown, M., Smith, B., Capon, C., Abay, R., Polo, M. C., Gehly, S., ... & Boyce, R.**, 2020  
+   SSA Experiments for the Australian M2 Formation Flying CubeSat Mission.  
+   *Advanced Maui Optical and Space Surveillance Technologies*
+   [pdf](https://www.researchgate.net/profile/Brenton-Smith-4/publication/345698529_SSA_Experiments_for_the_Australian_M2_Formation_Flying_CubeSat_Mission/links/5fab116d458515078107aaa4/SSA-Experiments-for-the-Australian-M2-Formation-Flying-CubeSat-Mission.pdf)
+   
+
 ![](/images/pin4.gif) **El Gharamti, M.**, 2020   
    Hybrid Ensemble–Variational Filter: A Spatially and Temporally Varying Adaptive Algorithm to Estimate Relative Weighting.   
    *Monthly Weather Review*, **149(1)**, 65-76.
