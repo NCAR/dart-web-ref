@@ -191,7 +191,7 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Quarterly Journal of the Royal Meteorological Society*, **145**, 1354-1376,
      [doi:10.1002/qj.3493](https://doi.org/10.1002/qj.3493)
 
-![](/images/pin4.gif) **Kerr, C. A., Stensrud, D. J., & Wang, X.**, 2019
+![](/images/pin4.gif) **Kerr, C. A., Stensrud, D. J., & Wang, X.**, 2019  
     Diagnosing convective dependencies on near-storm environments using ensemble sensitivity analyses.   
     *Monthly Weather Review*, **147(2)**, 495-517.
     [doi.org/10.1175/MWR-D-18-0140.1](https://doi.org/10.1175/MWR-D-18-0140.1)
