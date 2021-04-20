@@ -341,6 +341,11 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Journal of Atmospheric and Oceanic Technology*, **35**, 67-89,
      [doi:10.1175/JTECH-D-17-0081.1](http://dx.doi.org/doi:10.1175/JTECH-D-17-0081.1)
 
+![](/images/pin4.gif) **Matus, S. A.**, 2018  
+ Using ensemble precipitation forecasts to improve hydrologic risk assessment at river crossings  
+  [Masters Thesis](http://hdl.handle.net/2142/102508)
+
+
 ---
 ## 2017
 ---
