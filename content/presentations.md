@@ -9,6 +9,10 @@ aliases   :
 ## 2020
 ----
 
+![](/images/pin4.gif) **Fernandez Gomez, I., Kodikara, T., Codrescu, S., Heymann, F., Borries, C., & Schlicht, A.**, 2020  
+   The effect of neutral mass density data assimilation on the quality of thermosphere-ionosphere state estimation.  
+   *SPP 2020* [\[abstract\]](https://elib.dlr.de/135265/)
+
 ![](/images/pin4.gif) **Moha Gharamti** Nov 2020 :
     Presented to the UCAR Executive Committee of the Board of Trustees<br />
     Improving Earth System Model Predictions using Data Assimilation: Research and Applications
