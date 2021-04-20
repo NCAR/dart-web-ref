@@ -266,10 +266,13 @@ The Data Assimilation Research Testbed: A Community Facility.
   *Space Weather*, **17(10)**, 1442-1460.
   [doi.org/10.1029/2019SW002221](https://doi.org/10.1029/2019SW002221)
 
-
-![](/images/pin4.gif) **Elmer, N. J.**, 2019. 
+![](/images/pin4.gif) **Elmer, N. J.**, 2019   
   Using satellite observations of river height and vegetation to improve National Water Model initialization and streamflow prediction.  
-  [Doctoral Dissertation](https://uah.contentdm.oclc.org/digital/collection/p16608coll23/id/64211/)
+  [Doctoral Dissertation](https://uah.contentdm.oclc.org/digital/collection/p16608coll23/id/64211/) University of Alabama.
+
+![](/images/pin4.gif) **Timothy Kodikara**, 2019  
+  Physical Understanding and Forecasting of the Thermospheric Structure and Dynamics   
+  [Doctoral Dissertation](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Physical-understanding-and-forecasting-of-the-thermospheric-structure-and-dynamics/9921863942601341) RMIT University, Melbourne, Australia.
 
 ---
 ## 2018
