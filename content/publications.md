@@ -161,11 +161,6 @@ The Data Assimilation Research Testbed: A Community Facility.
   *Quarterly Journal of the Royal Meteorological Society*, **146(733)**, 4108-4130.
   [doi.org/10.1002/qj.3894](https://doi.org/10.1002/qj.3894)
 
-![](/images/pin4.gif) **Moore, A., Zavala-Garay, J., Arango, H. G., Edwards, C. A., Anderson, J., & Hoar, T.** (2020).   
-   Regional and basin scale applications of ensemble adjustment Kalman filter and 4D-Var ocean data assimilation systems.  
-   *Progress in Oceanography*, **189**, 102450.
-   [doi.org/10.1016/j.pocean.2020.102450](https://doi.org/10.1016/j.pocean.2020.102450)
-
 ![](/images/pin4.gif) **Ma, H., Siongco, A. C., Klein, S. A., Xie, S., Karspeck, A. R., Raeder, K., Anderson, J. L., Lee, J., Kirtman, B. P., Merryfield, W. J., Murakami, H., & Tribbia, J. J.**, 2020  
    On the correspondence between seasonal forecast biases and long-term climate biases in sea surface temperature.  
    *Journal of Climate*, **34(1)**, 427-446.
