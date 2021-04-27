@@ -7,7 +7,7 @@ docs          : "The DART documentation is online at readthedocs"
 heading       : Need help?
 support_email : "dart@ucar.edu"
 github_issue  : "https://github.com/NCAR/DART/issues"
-github        : "https://github.com/NCAR/DART"
+github        : "https://github.com/NCAR/DART/tree/master"
 readthedocs   : "https://dart-documentation.readthedocs.io/en/stable/"
 ---
 
