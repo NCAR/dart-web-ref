@@ -38,16 +38,11 @@ You can download [DART](https://github.com/NCAR/DART) from Github using
 
 ````
 git clone https://github.com/NCAR/DART.git
+cd DART
+git checkout -b v9.10.0-branch tags/v9.10.0
 ````
 
-To try the MATLAB hands-on exercises, start MATLAB® in the `DART/docs/DART_LAB` directory.
-
-````
-cd DART/docs/DART_LAB
-matlab
-````
-
-In the `matlab` subdirectory are a set of MATLAB scripts and 
+In the `guide/DART_LAB/matlab` subdirectory are a set of MATLAB scripts and 
 graphical user interface (GUI) programs which are exercises that go with the 
 tutorial. Each is interactive with settings that can be changed and 
 rerun to explore various options. A valid
