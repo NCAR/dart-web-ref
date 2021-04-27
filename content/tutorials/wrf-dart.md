@@ -20,7 +20,7 @@ For more information on the physical account of this case, see
 
 The WRF-DART tutorial is bundled with [DART](https://github.com/NCAR/DART.git). 
 Instructions for downloading DART can be found in the 
-[documentation](https://dart-documentation.readthedocs.io/en/stable/guide/downloading-dart.html)
+[documentation](https://dart-documentation.readthedocs.io/en/stable/guide/downloading-dart.html).
 
 To navigate to the WRF-DART tutorial:
  
