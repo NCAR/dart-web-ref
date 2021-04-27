@@ -8,7 +8,7 @@ heading       : Need help?
 support_email : "dart@ucar.edu"
 github_issue  : "https://github.com/NCAR/DART/issues"
 github        : "https://github.com/NCAR/DART"
-readthedocs   : "https://dart-documentation.readthedocs.io/en/latest/"
+readthedocs   : "https://dart-documentation.readthedocs.io/en/stable/"
 ---
 
 DART is a <span>community facility</span> for ensemble DA developed and maintained by the Data Assimilation Research Section <a href="/about">(DAReS)</a> at the National Center for Atmospheric Research (NCAR). 
