@@ -21,5 +21,5 @@ variety of models and observation sets that can be used to introduce new users o
 a framework for developing, testing, and distributing advances in ensemble DA to a broad community of users by removing the 
 implementation-specific peculiarities of one-off DA systems.  DART can be used with <span>external forward operators</span>. 
 
-Dart is freely available on [GitHub](https://github.com/NCAR/DART). The DART documentation can be viewed online at [readthedocs](https://dart-documentation.readthedocs.io/en/latest/). 
+Dart is freely available on [GitHub](https://github.com/NCAR/DART). The DART documentation can be viewed online at [readthedocs](https://dart-documentation.readthedocs.io/en/stable/). 
 

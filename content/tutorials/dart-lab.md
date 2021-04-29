@@ -38,8 +38,6 @@ You can download [DART](https://github.com/NCAR/DART) from Github using
 
 ````
 git clone https://github.com/NCAR/DART.git
-cd DART
-git checkout -b v9.10.0-branch tags/v9.10.0
 ````
 
 In the `guide/DART_LAB/matlab` subdirectory are a set of MATLAB scripts and 
