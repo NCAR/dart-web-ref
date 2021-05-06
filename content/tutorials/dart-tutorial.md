@@ -12,7 +12,7 @@ The DART Tutorial is intended to aid in the understanding of ensemble data assim
 theory and consists of step-by-step concepts and companion exercises with DART.
 
 Instructions for installing DART and the MATLAB&reg; diagnostics can be found in the 
-[DART documentation](https://dart-documentation.readthedocs.io/en/stable/). 
+[DART documentation](https://docs.dart.ucar.edu). 
 
 #### DART tutorial slides
 
