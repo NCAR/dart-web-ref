@@ -1,6 +1,16 @@
 .site-collab{
   padding: 80px 0 80px;
-  background: $gray;
+  background: #012169;
+  h2 {
+    color: #1A658F;
+  }
+
+  th {
+    color: #A8C700;
+  }
+  td {
+    color: #FFF;
+  }
   @include mobile{
     padding: 100px 0 100px;
   }
@@ -10,7 +20,7 @@
       font-size: 40px;
     }
     span{
-      color: $primary-color;
+      color: #1A658F;
     }
     @include mobile{
       text-align: center;

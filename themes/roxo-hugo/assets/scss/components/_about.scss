@@ -1,31 +1,47 @@
 .site-about{
     &-header{
       background: $gray;
+      background-image: url('/images/banners/mountain.jpg');
       padding: 180px 0 30px;
       @include mobile{
         padding: 100px 0 20px;
       }
       h1{
-        font-weight: 600;
+        font-weight: 800;
         letter-spacing: 5px;
         margin-bottom: 20px;
-        font-color: $primary-color;
+        color: $primary-color;
         @include mobile{
           font-size: 35px;
         }
       }
+      h2 {
+        font-size: 36px;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 2px;
+        font-weight: 800;
+        color: $secondary-color;
+        @include mobile{
+          font-size: 32px;
+        }
+      }
       h3{ 
-        font-color: $secondary-color;
+        color: $secondary-color;
         text-transform: uppercase;
         letter-spacing: 2px;
         @include mobile{
-          font-size: 35px;
+          font-size: 36px;
         }   
       }   
-
+      .container{
+        margin-bottom: 50px;
+      }
       p{
-        line-height: 28px;
+        line-height: 30px;
+        font-size: 18px;
         margin-bottom: 0;
+        color: $black;
       }
     }
 

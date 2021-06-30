@@ -1,6 +1,17 @@
 .site-project{
   padding: 120px 0;
   overflow: hidden;
+
+  h2 {
+    letter-spacing: 2px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+    color: $secondary-color;
+  }
+
   &-item{
     position: relative;
     margin-bottom: 30px;
@@ -27,6 +38,7 @@
         display: block;
         margin-bottom: 10px;
       }
+
       h3{
         margin-bottom: 0;
         a{
@@ -97,11 +109,28 @@
     }
   }
   &-header{
-    padding: 170px 0 80px;
-    background: $gray;
-    @include tablet{
-      padding: 170px 0 80px;
+    padding-top: 180px;
+    background-color: $gray;
+    background-image: url('/images/banners/canyon.jpg');
+    background-size: cover;
+    @include mobile{
+      padding-top: 100px;
+      text-align: center;
     }
+    h1{
+      color: $white;
+      letter-spacing: 2px;
+      font-weight: 800;
+      font-size: 36px;
+      line-height: 60px;
+      padding-bottom: 0px;
+      text-transform: uppercase;
+      margin-bottom: 50px;
+    } 
+    h6{ 
+     color: $primary-color;
+     font-size: 20px;
+    }  
     &-content{
       h1{
         font-size: 55px;
