@@ -2,7 +2,7 @@ enable : true
 heading : "DART's benefit to the community"
 counter_item: 
   - title: "Models supported"
-    number: "20+"
+    number: "25+"
 
   - title: "Publications"
     number: "150+"
