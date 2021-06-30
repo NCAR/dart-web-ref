@@ -1,6 +1,5 @@
 ---
-title         : "Data Assimilation Research Testbed"
-tagline       : "A flexible, scalable toolkit for data assimilation"
+title         : "Download"
 date          : 2019-12-23T20:17:01+06:00
 code          : "DART is freely available on GitHub"
 docs          : "The DART documentation is online at readthedocs" 
@@ -11,15 +10,19 @@ github        : "https://github.com/NCAR/DART"
 readthedocs   : "https://docs.dart.ucar.edu"
 ---
 
-DART is a <span>community facility</span> for ensemble DA developed and maintained by the Data Assimilation Research Section <a href="/about">(DAReS)</a> at the National Center for Atmospheric Research (NCAR). 
-DART provides modelers, observational scientists, and geophysicists with powerful, flexible DA tools that are easy to implement
-and use and can be customized to support efficient operational DA applications.
-DART is a software environment that makes it easy to explore a variety of data assimilation methods and observations with different 
-numerical models and is designed to facilitate the combination of assimilation algorithms, models, and real (as well as synthetic) 
-observations to allow increased understanding of all three. DART includes extensive documentation, a comprehensive tutorial, and a 
-variety of models and observation sets that can be used to introduce new users or graduate students to ensemble DA. DART also provides 
-a framework for developing, testing, and distributing advances in ensemble DA to a broad community of users by removing the 
-implementation-specific peculiarities of one-off DA systems.  DART can be used with <span>external forward operators</span>. 
+DART has been developed since the early 2000's. There have been nine major
+releases of DART, each denoted by the name of an island. The releases began
+with the Easter release on April 9, 2004 and continued with Fiji, Guam, Hawaii,
+Iceland, Jamaica, Kodiak and Lanai.
 
-Dart is freely available on [GitHub](https://github.com/NCAR/DART). The DART documentation can be viewed online at [readthedocs](https://docs.dart.ucar.edu). 
+The current release of DART is the Manhattan release. It is available for
+download via [GitHub](https://github.com/NCAR/DART). All previous releases of
+DART are also available by checking out a tagged commit. If you are a new user,
+DAReS staff strongly recommend using the Manhattan version. The DART
+documentation can be viewed online at
+[https://docs.dart.ucar.edu](https://docs.dart.ucar.edu). 
 
+DART also provides a framework for developing, testing, and distributing
+advances in ensemble DA to a broad community of users by removing the
+implementation-specific peculiarities of one-off DA systems.  DART can be used
+with <span>external forward operators</span>.

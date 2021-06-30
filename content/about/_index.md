@@ -1,11 +1,9 @@
 ---
-title: "DAReS"
+title: "Data Assimilation Research Section"
 date: 2018-07-12T18:19:33+06:00
-heading : "The Data Assimilation Research Section"
-description : "The NCAR Data Assimilation Initiative was founded to create and to then lead a research community for data assimilation where individuals benefit from sharing ideas, methodologies, and software tools as well as access to a data assimilation testbed. NCAR has a large number of researchers for whom data assimilation is an essential part of their ongoing or planned research. New developments in theoretical data assimilation and in software engineering are making collaborations between data assimilation experts, modelers, observational specialists and statisticians easier and more productive than was possible in the past. The maturation of the Initiative resulted in the Data Assimilation Research Section (DAReS). The primary goal of DAReS is to continue to advance the theory and practice of ensemble data assimilation. Also, DAReS accelerates the progress of many other NCAR projects by providing a centralized data assimilation expertise which can be coordinated with existing observational and modeling expertise. "
-small_group: "Our small group is comprised of experts in software design, algorithm development, large-model implementation and execution, observations and observation operators, and hardware/software portability. We have given many presentations on DART - our software facility for ensemble data assimilation, and have held several workshops for young researchers interested in DA."
-expertise_title: "Expertise"
-expertise_sectors: ["Algorithm development", "Software design", "Large-model implementation and execution", "Observations and observation operators", "Software portability"]
+description : "DART is created by the Data Assimilation Research Section (DAReS), a small group of data assimilation experts, software engineers and physical scientists. DAReS was founded as the result of NCAR's Data Assimilation Initiative, a collaborative process that gauged the needs of researchers across NCAR. The initiative established the necessity of developing methodologies, tools and software to enable data assimilation capabilities within models developed at NCAR."
+purpose : "DAReS staff serve projects throughout NCAR by providing a bridge between teams with existing observational and modeling expertise. This bridge aids model development by providing concise descriptions of model error and enables fundamental discoveries by allowing observationalists and modelers to share their expertise by  combining models and data using a rigorous assimilation framework."
+small_group: "In the years since DAReS’ founding, DART has grown beyond its original purpose and now supports data assimilation in models developed at NCAR and by the broader geosciences community. DAReS staff have expertise in algorithm development, software design, software portability, large-model implementation and execution, observations and observation operators."
 aliases: 
     - pages/About_Us.html
 ---
