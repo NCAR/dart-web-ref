@@ -1,6 +1,5 @@
 ---
-title     : "Presentations featuring DART"
-layout    : "staticpage"
+title     : "Presentations"
 aliases   : 
    - /pages/Presentations.html
 ---

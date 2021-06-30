@@ -1,6 +1,5 @@
 ---
-title       : "Publications featuring DART"
-layout      : "staticpage"
+title       : "Publications"
 aliases     :
    - /pages/Publications.html
 ---
