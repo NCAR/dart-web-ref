@@ -32,6 +32,10 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2021
 ---
 
+![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., Lin J.C.**, 2021
+   Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.   
+   *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421) 
+
 ![](/images/pin4.gif) **Kodikara, T., Zhang, K., Pedatella, N. M., & Borries, C.**, 2021  
    The impact of solar activity on forecasting the upper atmosphere via assimilation 
    of electron density data.    
