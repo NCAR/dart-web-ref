@@ -3,8 +3,16 @@ title: "Predicting Floods and Protecting Lives"
 date: 2021-01-01T14:58:06-07:00
 type: research
 image: "images/science_nuggets/ats_local_200_1_teaser.png"
+hero: "images/hero/wrf-hydro.jpg"
 category: ["FLOOD PREDICTION"]
 weight: 30
+figures:
+ - image : "/images/science_nuggets/ats_local_200_1.png"
+   caption : "A depiction of the along-the-stream localization scheme implemented in the project. The asterisks depict stream flow gauges and the rainbow-colored segments depict the specific areas affected by the assimilated data."
+ - image : "/images/science_nuggets/pee_dee_hydrograph.png"
+   caption : "Precipitation and estimated stream flow for a hydrograph along the Pee Dee River. The Open Loop (orange line) refers to the estimated stream flow without data assimilation. The Prior (black line) and Posterior (dashed blue line) Means show significant reduction in the root mean squared error (RMSE)."
+ - image : "/images/science_nuggets/fig_system_schematic.png"
+   caption : "A schematic depicting the data assimilation system used in the experiment."
 ---
 
 Hurricanes are among the deadliest weather phenomena on earth. The intensity of
@@ -43,8 +51,6 @@ Dr. Gharamti from the DAReS team. He further adds “Adaptive inflation, on the
 other hand, was extremely useful at mitigating extreme model and boundary
 biases particularly near Pee Dee River in SC.” 
 
-{{< figure src="/images/science_nuggets/ats_local_200_1.png" class="site-project-single-image" >}} 
-
 Dr. McCreight from RAL really enjoyed the collaborative environment of this
 work adding “Having weekly meetings where there is an opportunity to look and
 investigate various hydrographs together, was indispensable for the success of
@@ -53,10 +59,6 @@ of this work, looking ahead we plan to further improve the assimilation
 framework by adding nonlinear streamflow updates that respect the non-Gaussian
 (positive) nature of the variable. This can be done by a statistical
 transformation, commonly referred to as Gaussian Anamorphosis.”
-
-{{< figure src="/images/science_nuggets/pee_dee_hydrograph.png" class="site-project-single-image" >}} 
-
-{{< figure src="/images/science_nuggets/fig_system_schematic.png" class="site-project-single-image" >}} 
 
 The team submitted their research to Hydrology and Earth System Sciences, a
 publication of the European Geophysical Union, where it is currently in review.
