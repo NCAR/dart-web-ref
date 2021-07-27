@@ -23,12 +23,17 @@ are using the Data Assimilation Research Testbed (DART) to better predict it.
 
 Ganesh Gopalakrishnan, Bruce Cornuelle, and Daniel Rudnick of Scripps Institute
 of Oceanography, along with Ibrahim Hoteit at King Abdullah University of
-Science and Technology used the Massachusetts Institute of Technology General
-Circulation Model (MITgcm) to model a segment of the Gulf Stream that is known
-as the Loop Current. As the Loop Current meanders west of Cuba erratic
-features, known as mesoscale eddies, detach from it and propagate through the
-Gulf of Mexico where they can pose threats to human infrastructure such as
+Science and Technology (KAUST) used the Massachusetts Institute of Technology
+General Circulation Model (MITgcm) to model a segment of the Gulf Stream that
+is known as the Loop Current. As the Loop Current meanders west of Cuba,
+erratic features, known as mesoscale eddies, detach from it and propagate
+through the Gulf of Mexico where they can damage human infrastructure such as
 offshore oil rigs.
+
+"Accurately predicting ocean currents in the Gulf are very important to manage
+safe oil and gas operations and may save companies millions of dollars in
+downtime. They are also crucial for effective response activities," said
+Professor Ibrahim Hoteit of KAUST.
 
 As a result of BP’s historic settlement with the United States government in
 the wake of the Deepwater Horizon disaster, the National Academy of Sciences
@@ -49,11 +54,22 @@ The scientists learned that EnKF assimilation improved short-range predictions
 of eddy detachment events in comparison to 4D-var, while 4D-var improved
 long-range predictions in comparison to EnKF.
 
-Their results were published in the Quarterly Journal of the Royal
-Meteorological Society. For more information, see their article below.
+Hoteit's team at KAUST also extended the experimental framework to develop an
+operational oil spill forecasting system for the Red Sea and the Arabian Gulf.
+The system is designed to provide accurate and timely predictions of ocean
+currents within areas where Aramco operates oil rigs. Since spills from such
+rigs pose grave threats to wildlife, such forecasting systems can help
+companies prevent spills and mitigate the effects of accidents.
 
-### Reference
+The results were published in the Quarterly Journal of the Royal
+Meteorological Society. For more information, see the articles below.
 
-Gopalakrishnan, G., I. Hoteit, B. Cornuelle, and D. Rudnick, 2019
+### References
+
+Gopalakrishnan, G., I. Hoteit, B. Cornuelle, and D. Rudnick, 2019.
 Comparison of 4DVAR and EnKF states estimates and forecasts in the Gulf of Mexico.
 *Quarterly Journal of the Royal Meteorological Society*, **145**, 1354-1376, [doi:10.1002/qj.3493](https://doi.org/10.1002/qj.3493).
+
+Toye, H., S. Sanikommu, N.F. Raboudi, and I. Hoteit, 2020.
+A hybrid ensemble adjustment Kalman filter based high-resolution data assimilation system for the Red Sea: Implementation and evaluation
+*Quarterly Journal of the Royal Meteorological Society*, **146**, 4108-4130, [doi:10.1002/qj.3894](https://doi.org/10.1002/qj.3894).
