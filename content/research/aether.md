@@ -15,7 +15,7 @@ Space weather events can wreak widespread societal havoc, disabling satellites
 and causing outages of electrical grids on the ground. The potential for
 disruption is great enough that the National Science Foundation (NSF) and
 National Aeronautics and Space Administration (NASA) committed to fund $17M to
-establish the next-generation of space weather prediction systems.
+establish the next generation of space weather prediction systems.
 
 One of these prediction systems, Aether, is being developed in a collaboration
 between the University of Michigan, the Naval Research Lab (NRL), NASA and
@@ -48,5 +48,7 @@ The team is composed of Aaron Ridley and Qusai Al Shidi at the University of
 Michigan, Jared Bell and Alex Glocer at NASA Goddard Spaceflight Center,
 Angeline Burrell and Meghan Burleigh at NRL and Jeffrey Anderson and Ben
 Johnson at NCAR.
+
+### Further reading
 
 For more information, see https://aetherdocumentation.rtfd.io/.
