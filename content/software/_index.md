@@ -23,6 +23,7 @@ documentation can be viewed online at
 [https://docs.dart.ucar.edu](https://docs.dart.ucar.edu). 
 
 DART also provides a framework for developing, testing, and distributing
-advances in ensemble DA to a broad community of users by removing the
-implementation-specific peculiarities of one-off DA systems.  DART can be used
-with <span>external forward operators</span>.
+advances in ensemble DA to a broad community of users by handling the
+implementation details common to data assimilation methods.  DART can be used
+with external forward operators such as those provided in [NOAA's Gridpoint
+Statistical Interpolation](https://docs.dart.ucar.edu/en/latest/observations/obs_converters/GSI2DART/readme.html)  System.
