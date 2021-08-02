@@ -32,7 +32,11 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2021
 ---
 
-![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., Lin J.C.**, 2021
+![](/images/pin4.gif) **Riedel, C. P., S. M. Cavallo, & D. B. Parsons**, 2021
+   Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.   
+   *Monthly Weather Review*, [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
+
+![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., & Lin J.C.**, 2021
    Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.   
    *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421) 
 
