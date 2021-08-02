@@ -8,6 +8,8 @@ weight: 3
 author: dart
 ---
 
+### Overview
+
 The WRF-DART tutorial steps through a WRF-DART experiment.
 The experiment covers the continental United States and uses a 50 member ensemble initialized from 
 NCEP’s Global Forecast System (GFS) initial conditions at 2017/04/27 00:00 UTC. 
@@ -17,10 +19,13 @@ the United States, causing **record rains**, **localized flooding**, and numerou
 For more information on the physical account of this case, see
 [weather.gov](https://www.weather.gov/lot/2017Apr2930_rainfall).
 
+### Download
 
 The WRF-DART tutorial is bundled with [DART](https://github.com/NCAR/DART.git). 
 Instructions for downloading DART can be found in the 
 [documentation](https://docs.dart.ucar.edu/en/stable/guide/downloading-dart.html).
+
+### Navigation
 
 To navigate to the WRF-DART tutorial:
  
@@ -28,4 +33,4 @@ To navigate to the WRF-DART tutorial:
 cd DART/models/wrf/tutorial
 ````
 
-If this is your first time using DART, we recommend working through the [DART tutorial](https://docs.dart.ucar.edu/en/stable/theory/readme.html) before trying WRF-DART.
+If this is your first time using DART, DAReS staff recommend working through the [DART tutorial](https://docs.dart.ucar.edu/en/stable/theory/readme.html) before trying WRF-DART.
