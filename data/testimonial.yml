@@ -15,7 +15,7 @@ testimonial_item :
             Assimilate any suitable observations. Swap out filter and inflation algorithms with ease.
 
   - thumb : "images/triptych/platforms.png"
-    name  : "RUN ON SUPERCOMPUTERS, LEARN ON LAPTOPS"
+    name  : "LEARN ON LAPTOPS, RUN ON SUPERCOMPUTERS"
     company_position: "Platforms"
     quote : > 
-            Compile with MPI for GCMs on supercomputers or without MPI for conceptual models.
+            Compile without MPI for conceptual models or with MPI for GCMs on supercomputers.
