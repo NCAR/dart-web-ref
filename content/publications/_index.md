@@ -32,11 +32,19 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2021
 ---
 
-![](/images/pin4.gif) **Riedel, C. P., S. M. Cavallo, & D. B. Parsons**, 2021
-   Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.   
-   *Monthly Weather Review*, [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
+![](/images/pin4.gif) **Jiang, P., X., Chen, K. Chen, J. L. Anderson, N.Collins, N., & M. E. Gharamti**, 2021  
+DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.
+*Environmental Modelling & Software*, **142**, 105074, [doi.org/10.1016/j.envsoft.2021.105074](https://doi.org/10.1016/j.envsoft.2021.105074)
 
-![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., & Lin J.C.**, 2021
+![](/images/pin4.gif) **Rakesh, S., & G, Kutty**, 2021  
+   Intercomparison of the Performance of Four Data Assimilation Schemes in a Limited‐Area Model on Forecasts of an Extreme Rainfall Event Over the Uttarakhand in Himalayas.
+   *Earth and Space Science*, **8(7)**,  [doi.org/10.1029/2020EA001461](https://doi.org/10.1029/2020EA001461)
+
+![](/images/pin4.gif) **Riedel, C. P., S. M. Cavallo, & D. B. Parsons**, 2021  
+   Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.   
+   *Monthly Weather Review*, **149(2)**, 443-462 [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
+
+![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., & Lin J.C.**, 2021  
    Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.   
    *Journal of Advances in Modeling Earth Systems*, [doi.org/10.1029/2020MS002421](https://doi.org/10.1029/2020MS002421) 
 
@@ -105,7 +113,6 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Journal of Advances in Modeling Earth Systems*, **12**,
      [doi:10.1029/2020MS002176](https://doi.org/10.1029/2020MS002176)
 
-
  ![](/images/pin4.gif) **Moore, A., J. Zavala-Garay,
    H. G. Arango, C. A. Edwards, J. L. Anderson, T. J. Hoar**, 2020  
      Regional and basin scale applications of ensemble adjustment Kalman filter
@@ -113,7 +120,7 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Progress in Oceanography*, **189**, 102450,
      [doi:0.1016/j.pocean.2020.102450](https://doi.org/10.1016/j.pocean.2020.102450)
 
-![](/images/pin4.gif) **Li, C. H., Berner, J., Hong, J. S., Fong, C. T., & Kuo, Y. H.**, 2020
+![](/images/pin4.gif) **Li, C. H., Berner, J., Hong, J. S., Fong, C. T., & Kuo, Y. H.**, 2020  
    The Taiwan WRF Ensemble Prediction System: Scientific description, model-error representation and performance results.  
    *Asia-Pacific Journal of Atmospheric Sciences*, **56(1)**, 1-15.
    [doi.org/10.1007/s13143-019-00127-8](https://doi.org/10.1007/s13143-019-00127-8)
@@ -188,21 +195,35 @@ The Data Assimilation Research Testbed: A Community Facility.
    Efficient Ensemble Data Assimilation and Forecasting of the Red Sea Circulation  
    [Doctoral dissertation](http://hdl.handle.net/10754/666074)
 
+
+![](/images/pin4.gif) **Qiao, X., S. Wang, C. S. Schwartz, Z. Liu, and J. Min**, 2020  
+   A Method for Probability Matching Based on the Ensemble Maximum for Quantitative Precipitation Forecasts.  
+   *Monthly Weather Review*, **148**, 3379-3396, [doi.org/10.1175/MWR-D-20-0003.1](https://doi.org/10.1175/MWR-D-20-0003.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., M. Wong, G. S. Romine, R. A. Sobash, and K. R. Fossell**, 2020  
+   Initial Conditions for Convection-Allowing Ensembles over the Conterminous United States.  
+   *Monthly Weather Review*, **148**, 2645-2669, [doi.org/10.1175/MWR-D-19-0401.1](https://doi.org/10.1175/MWR-D-19-0401.1)
+
 ---
 ## 2019
 ---
 
- ![](/images/pin4.gif) **Gopalakrishnan, G., I. Hoteit,
-   B. Cornuelle, and D. Rudnick**, 2019  
-     Comparison of 4DVAR and EnKF states estimates and forecasts in the Gulf of
-     Mexico.  
-     *Quarterly Journal of the Royal Meteorological Society*, **145**, 1354-1376,
-     [doi:10.1002/qj.3493](https://doi.org/10.1002/qj.3493)
+![](/images/pin4.gif) **Coniglio, M. C., G. S. Romine, D. D. Turner, and R. D. Torn**, 2019  
+   Impacts of targeted AERI and Doppler lidar wind retrievals on short-term forecasts of the initiation and early evolution of thunderstorms.  
+   *Monthly Weather Review*, **147**, 1149-1170, [doi.org/10.1175/MWR-D-18-0351.1](https://doi.org/10.1175/MWR-D-18-0351.1)
+
+
+![](/images/pin4.gif) **Gopalakrishnan, G., I. Hoteit, B. Cornuelle, and D. Rudnick**, 2019  
+     Comparison of 4DVAR and EnKF states estimates and forecasts in the Gulf of Mexico.  
+     *Quarterly Journal of the Royal Meteorological Society*, **145**, 1354-1376, [doi:10.1002/qj.3493](https://doi.org/10.1002/qj.3493)
+
 
 ![](/images/pin4.gif) **Kerr, C. A., Stensrud, D. J., & Wang, X.**, 2019  
     Diagnosing convective dependencies on near-storm environments using ensemble sensitivity analyses.   
     *Monthly Weather Review*, **147(2)**, 495-517.
     [doi.org/10.1175/MWR-D-18-0140.1](https://doi.org/10.1175/MWR-D-18-0140.1)
+
 
 ![](/images/pin4.gif) **Ling, X. L., Fu, C. B., Yang, Z. L., & Guo, W. D.**, 2019  
    Comparison of different sequential assimilation algorithms for satellite-derived leaf area index using the Data Assimilation Research Testbed (version Lanai). 
@@ -280,6 +301,16 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Kodikara, T.**, 2019  
   Physical Understanding and Forecasting of the Thermospheric Structure and Dynamics   
   [Doctoral Dissertation](https://researchrepository.rmit.edu.au/esploro/outputs/doctoral/Physical-understanding-and-forecasting-of-the-thermospheric-structure-and-dynamics/9921863942601341) RMIT University, Melbourne, Australia.
+
+
+![](/images/pin4.gif) **Trier, S. B., G. S. Romine, D. A. Ahijevych, and R. A. Sobash**, 2019  
+   Lower-Tropospheric Influences on the Timing and Intensity of Afternoon Severe Convection over Modest Terrain in a Convection-Allowing Ensemble.  
+   *Weather and Forecasting*, **34**, 1633-1656, [doi.org/10.1175/WAF-D-19-0087.1](https://doi.org/10.1175/WAF-D-19-0087.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., G. S. Romine, R. A. Sobash, K. R. Fossell, and M. L. Weisman**, 2019  
+   NCAR's Real-Time Convection-Allowing Ensemble Project.  
+   *Bulletin of the American Meteorological Society*, **100**, 321-343, [doi.org/10.1175/BAMS-D-17-0297.1](https://doi.org/10.1175/BAMS-D-17-0297.1)
 
 ---
 ## 2018
@@ -481,9 +512,38 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Monthly Weather Review*, **32**, 511-531,
      [doi:10.1175/WAF-D-16-0135.1](http://dx.doi.org/doi:10.1175/WAF-D-16-0135.1)
 
+
+![](/images/pin4.gif) **Berman, J. D., R. D. Torn, G. S. Romine, and M. L. Weisman**, 2017  
+   Sensitivity of Northern Great Plains Convection Forecasts to Upstream and Downstream Forecast Errors.  
+   *Monthly Weather Review*, **145**, 2141-2163, [doi.org/10.1175/MWR-D-16-0353.1](https://doi.org/10.1175/MWR-D-16-0353.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S.**, 2017  
+   A Comparison of Methods Used to Populate Neighborhood-Based Contingency Tables for High-Resolution Forecast Verification.  
+   *Weather and Forecasting*, **32**, 733-741, [doi.org/10.1175/WAF-D-16-0187.1](https://doi.org/10.1175/WAF-D-16-0187.1)
+
+
+![](/images/pin4.gif) **Dawson, L. C., G. S. Romine, R. J. Trapp, and M. E. Baldwin**, 2017  
+   Verifying Supercellular Rotation in a Convection-Permitting Ensemble Forecasting System with Radar-Derived Rotation Track Data.  
+   *Weather and Forecasting*, **32**, 781-795, [doi.org/10.1175/WAF-D-16-0121.1](https://doi.org/10.1175/WAF-D-16-0121.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., G. S. Romine, K. R. Fossell, R. A. Sobash, and M. L. Weisman**, 2017  
+   Toward 1-km Ensemble Forecasts over Large Domains.  
+   *Monthly Weather Review*, **145**, 2943-2969, [doi.org/10.1175/MWR-D-16-0410.1](https://doi.org/10.1175/MWR-D-16-0410.1)
+
+
+![](/images/pin4.gif) **Torn, R. D., G. S. Romine, and T. J. Galarneau**, 2017  
+   Sensitivity of Dryline Convection Forecasts to Upstream Forecast Errors for Two Weakly Forced MPEX Cases.  
+   *Monthly Weather Review*, **145**, 1831-1852, [doi.org/10.1175/MWR-D-16-0457.1](https://doi.org/10.1175/MWR-D-16-0457.1)
+
 ---
 ## 2016
 ---
+
+![](/images/pin4.gif) **Hill, A. J., C. C. Weiss, and B. C. Ancell**, 2016   
+   Ensemble sensitivity analysis for mesoscale forecasts of dryline convection initiation.
+   *Monthly Weather Review*, **144(11)** 4161-4182 [doi.org/10.1175/MWR-D-15-0338.1](https://doi.org/10.1175/MWR-D-15-0338.1)
 
  ![](/images/pin4.gif) **Gaubert, B., A. F. Arellano Jr.,
    J. Barré, H. M. Worden, L. K. Emmons, S. Tilmes, R. R. Buchholz, F. Vitt,
@@ -585,6 +645,21 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Atmospheric Chemistry and Physics*, **15**, 28069-28132,
      [doi:10.5194/acpd-15-28069-2015](http://dx.doi.org/doi:10.5194/acpd-15-28069-2015)
 
+
+![](/images/pin4.gif) **Marquis, J., Y. Richardson, P. Markowski, J. Wurman, K. Kosiba, and P. Robinson**, 2016  
+   An Investigation of the Goshen County, Wyoming, Tornadic Supercell of 5 June 2009 Using EnKF Assimilation of Mobile Mesonet and Radar Observations Collected during VORTEX2. Part II: Mesocyclone-Scale Processes Affecting Tornado Formation, Maintenance, and Decay.  
+   *Monthly Weather Review*, **144**, 3441-3463, [doi.org/10.1175/MWR-D-15-0411.1](https://doi.org/10.1175/MWR-D-15-0411.1)
+
+
+![](/images/pin4.gif) **Sobash, R. A., G. S. Romine, C. S. Schwartz, D. J. Gagne, and M. L. Weisman**, 2016  
+   Explicit Forecasts of Low-Level Rotation from Convection-Allowing Models for Next-Day Tornado Prediction.  
+   *Weather and Forecasting*, **31**, 1591-1614, [doi.org/10.1175/WAF-D-16-0073.1](https://doi.org/10.1175/WAF-D-16-0073.1)
+
+
+![](/images/pin4.gif) **Sobash, R. A., C. S. Schwartz, G. S. Romine, K. R. Fossell, and M. L. Weisman**, 2016  
+   Severe Weather Prediction Using Storm Surrogates from an Ensemble Forecasting System.  
+   *Weather and Forecasting*, **31**, 255-271, [doi.org/10.1175/WAF-D-15-0138.1](https://doi.org/10.1175/WAF-D-15-0138.1)
+
 ---
 ## 2015
 ---
@@ -621,6 +696,45 @@ The Data Assimilation Research Testbed: A Community Facility.
      Ensemble Adjustment Kalman Filter Data Assimilation for a Global Atmospheric Model.  
      *International Conference on Dynamic Data-Driven Environmental Systems Science*,
      284-298, [doi:10.1007/978-3-319-25138-7_26](http://dx.doi.org/doi:10.1007/978-3-319-25138-7_26)
+
+
+![](/images/pin4.gif) **Newman, K. M., C. S. Schwartz, Z. Liu, H. Shao, and X.-Y. Huang**, 2015  
+   Evaluating Forecast Impact of Assimilating Microwave Humidity Sounder (MHS) Radiances with a Regional Ensemble Kalman Filter Data Assimilation System.  
+   *Weather and Forecasting*, **30**, 964-983, [doi.org/10.1175/WAF-D-14-00091.1](https://doi.org/10.1175/WAF-D-14-00091.1)
+
+
+![](/images/pin4.gif) **Trier, S. B., G. S. Romine, D. A. Ahijevych, R. J. Trapp, R. S. Schumacher, M. C. Coniglio, and D. J. Stensrud**, 2015  
+   Mesoscale Thermodynamic Influences on Convection Initiation near a Surface Dryline in a Convection-Permitting Ensemble.  
+   *Monthly Weather Review*, **143**, 3726-3753, [doi.org/10.1175/MWR-D-15-0133.1](https://doi.org/10.1175/MWR-D-15-0133.1)
+
+
+![](/images/pin4.gif) **Weisman, M. L., and Coauthors**, 2015  
+   The Mesoscale Predictability Experiment (MPEX).  
+   *Bulletin of the American Meteorological Society*, **96**, 2127-2149, [doi.org/10.1175/BAMS-D-13-00281.1](https://doi.org/10.1175/BAMS-D-13-00281.1)
+
+![](/images/pin4.gif) **Lei, L., J. L. Anderson, and G. S. Romine**, 2015  
+   Empirical Localization Functions for Ensemble Kalman Filter Data Assimilation in Regions with and without Precipitation.  
+   *Monthly Weather Review*, **143**, 3664-3679, [doi.org/10.1175/MWR-D-14-00415.1](https://doi.org/10.1175/MWR-D-14-00415.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., Z. Liu, and X.-Y. Huang**, 2015  
+   Sensitivity of Limited-Area Hybrid Variational-Ensemble Analyses and Forecasts to Ensemble Perturbation Resolution.  
+   *Monthly Weather Review*, **143**, 3454-3477, [doi.org/10.1175/MWR-D-14-00259.1](https://doi.org/10.1175/MWR-D-14-00259.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., G. S. Romine, R. A. Sobash, K. R. Fossell, and M. L. Weisman**, 2015  
+   NCAR's Experimental Real-Time Convection-Allowing Ensemble Prediction System.  
+   *Weather and Forecasting*, **30**, 1645-1654, [doi.org/10.1175/WAF-D-15-0103.1](https://doi.org/10.1175/WAF-D-15-0103.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., G. S. Romine, M. L. Weisman, R. A. Sobash, K. R. Fossell, K. W. Manning, and S. B. Trier**, 2015  
+   A Real-Time Convection-Allowing Ensemble Prediction System Initialized by Mesoscale Ensemble Kalman Filter Analyses.  
+   *Weather and Forecasting*, **30**, 1158-1181, [doi.org/10.1175/WAF-D-15-0013.1](https://doi.org/10.1175/WAF-D-15-0013.1)
+
+
+![](/images/pin4.gif) **Torn, R. D., and G. S. Romine**, 2015  
+   Sensitivity of Central Oklahoma Convection Forecasts to Upstream Potential Vorticity Anomalies during Two Strongly Forced Cases during MPEX.  
+   *Monthly Weather Review*, **143**, 4064-4087, [doi.org/10.1175/MWR-D-15-0085.1](https://doi.org/10.1175/MWR-D-15-0085.1)
 
 
 ---
@@ -671,6 +785,16 @@ The Data Assimilation Research Testbed: A Community Facility.
      and the Community Land Model version 4.  
      *Journal of Geophysical Research: Atmospheres*, **142** 1489-1508,
      [doi:10.1002/2013JD021329](http://dx.doi.org/doi:10.1002/2013JD021329)
+
+
+![](/images/pin4.gif) **Romine, G. S., C. S. Schwartz, J. Berner, K. R. Fossell, C. Snyder, J. L. Anderson, and M. L. Weisman**, 2014  
+   Representing Forecast Error in a Convection-Permitting Ensemble System.  
+   *Monthly Weather Review*, **142**, 4519-4541, [doi.org/10.1175/MWR-D-14-00100.1](https://doi.org/10.1175/MWR-D-14-00100.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., G. S. Romine, K. R. Smith, and M. L. Weisman**, 2014  
+   Characterizing and Optimizing Precipitation Forecasts from a Convection-Permitting Ensemble Initialized by a Mesoscale Ensemble Kalman Filter.  
+   *Weather and Forecasting*, **29**, 1295-1318, [doi.org/10.1175/WAF-D-13-00145.1](https://doi.org/10.1175/WAF-D-13-00145.1)
 
 
 ---
@@ -725,6 +849,11 @@ The Data Assimilation Research Testbed: A Community Facility.
      *Monthly Weather Review*, **141**, 1263-1284,
      [doi:10.1175/MWR-D-12-00112.1](http://dx.doi.org/doi:10.1175/MWR-D-12-00112.1)
 
+
+![](/images/pin4.gif) **Schwartz, C. S., Z. Liu, X.-Y. Huang, Y.-H. Kuo, and C.-T. Fong**, 2013  
+   Comparing Limited-Area 3DVAR and Hybrid Variational-Ensemble Data Assimilation Methods for Typhoon Track Forecasts: Sensitivity to Outer Loops and Vortex Relocation.  
+   *Monthly Weather Review*, **141**, 4350-4372, [doi.org/10.1175/MWR-D-13-00028.1](https://doi.org/10.1175/MWR-D-13-00028.1)
+
 ---
 ## 2012
 ---
@@ -762,6 +891,16 @@ The Data Assimilation Research Testbed: A Community Facility.
      Implementation of new diffusion/filtering operators in the CAM-FV dynamical core.  
      The International Journal of High Performance Computing Applications, **26** 63-73,
      [doi:10.1177/1094342011410088](http://dx.doi.org/doi:10.1177/1094342011410088)
+
+
+![](/images/pin4.gif) **Liu, Z., C. S. Schwartz, C. Snyder, and S.-Y. Ha**, 2012  
+   Impact of Assimilating AMSU-A Radiances on Forecasts of 2008 Atlantic Tropical Cyclones Initialized with a Limited-Area Ensemble Kalman Filter.  
+   *Monthly Weather Review*, **140**, 4017-4034, [doi.org/10.1175/MWR-D-12-00083.1](https://doi.org/10.1175/MWR-D-12-00083.1)
+
+
+![](/images/pin4.gif) **Schwartz, C. S., Z. Liu, Y. Chen, and X.-Y. Huang**, 2012  
+   Impact of Assimilating Microwave Radiances with a Limited-Area Ensemble Data Assimilation System on Forecasts of Typhoon Morakot.  
+   *Weather and Forecasting*, **27**, 424-437, [doi.org/10.1175/WAF-D-11-00033.1](https://doi.org/10.1175/WAF-D-11-00033.1)
 
 
 ---
