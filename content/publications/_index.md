@@ -149,7 +149,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Eliashiv, J., Subramanian, A. C., & Miller, A. J.**, 2020   
    Tropical climate variability in the Community Earth System Model: Data Assimilation Research Testbed.  
    *Climate Dynamics*, **54(1)**, 793-806.
-   [doi.org/10.1175/JCLI-D-19-0513.1](https://doi.org/10.1175/JCLI-D-19-0513.1)
+   [doi.org/10.1007/s00382-019-05030-6](https://doi.org/10.1007/s00382-019-05030-6)
 
 ![](/images/pin4.gif) **Ma, C., Wang, T., Jiang, Z., Wu, H., Zhao, M., Zhuang, B., ... & Wu, R.**, 2020  
    Importance of bias correction in data assimilation of multiple observations over eastern China using WRF‐Chem/DART.  
@@ -159,7 +159,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Singh, T.**, 2020  
    Development of an ensemble data assimilation system with LMDZ5 AGCM for regional reanalysis.   
    *Climate Dynamics*, **54(5)**, 2847-2868.
-   [doi.org/10.1029/2019JD031465](https://doi.org/10.1029/2019JD031465)
+   [doi.org/10.1007/s00382-020-05147-z](https://doi.org/10.1007/s00382-020-05147-z)
 
 ![](/images/pin4.gif) **Anderson, J. L.**, 2020   
    A Marginal Adjustment Rank Histogram Filter for Non-Gaussian Ensemble Data Assimilation.  
