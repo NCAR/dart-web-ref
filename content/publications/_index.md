@@ -32,9 +32,15 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2021
 ---
 
+![](/images/pin4.gif) **Liu, G., R. S. Lieberman, V. L. Harvey, N. M. Pedatella, J. Oberheide, R. E. Hibbins, P. J. Espy, and D. Janches**, 2021  
+   Tidal Variations in the Mesosphere and Lower Thermosphere Before, During, and After the 2009 Sudden Stratospheric Warming.  
+   *Journal of Geophysical Research: Space Physics*, **126**, e2020JA028827, [doi.org/10.1029/2020JA028827](https://doi.org/10.1029/2020JA028827)
+
+
 ![](/images/pin4.gif) **Jiang, P., X., Chen, K. Chen, J. L. Anderson, N.Collins, N., & M. E. Gharamti**, 2021  
-DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.
-*Environmental Modelling & Software*, **142**, 105074, [doi.org/10.1016/j.envsoft.2021.105074](https://doi.org/10.1016/j.envsoft.2021.105074)
+   DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurface flow and transport model parameters.
+   *Environmental Modelling & Software*, **142**, 105074, [doi.org/10.1016/j.envsoft.2021.105074](https://doi.org/10.1016/j.envsoft.2021.105074)
+
 
 ![](/images/pin4.gif) **Rakesh, S., & G, Kutty**, 2021  
    Intercomparison of the Performance of Four Data Assimilation Schemes in a Limited‐Area Model on Forecasts of an Extreme Rainfall Event Over the Uttarakhand in Himalayas.
@@ -891,6 +897,11 @@ DART-PFLOTRAN: An ensemble-based data assimilation system for estimating subsurf
      Implementation of new diffusion/filtering operators in the CAM-FV dynamical core.  
      The International Journal of High Performance Computing Applications, **26** 63-73,
      [doi:10.1177/1094342011410088](http://dx.doi.org/doi:10.1177/1094342011410088)
+
+
+![](/images/pin4.gif) **Lei, L., D. R. Stauffer, and A. Deng**, 2012  
+   A hybrid nudging-ensemble Kalman filter approach to data assimilation in WRF/DART.  
+   *Quarterly Journal of the Royal Meteorological Society*, 138, 2066–2078, [doi.org/10.1002/qj.1939](https://doi.org/10.1002/qj.1939)
 
 
 ![](/images/pin4.gif) **Liu, Z., C. S. Schwartz, C. Snyder, and S.-Y. Ha**, 2012  
