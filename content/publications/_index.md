@@ -48,7 +48,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Riedel, C. P., S. M. Cavallo, & D. B. Parsons**, 2021  
    Mesoscale Prediction in the Antarctic Using Cycled Ensemble Data Assimilation.   
-   *Monthly Weather Review*, **149(2)**, 443-462 [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
+   *Monthly Weather Review*, **149(2)**, 443-462, [doi.org/10.1175/MWR-D-20-0009.1](https://doi.org/10.1175/MWR-D-20-0009.1) 
 
 ![](/images/pin4.gif) **Raczka, B., Hoar T.J., Duarte H.F., Fox A.M., Anderson J.L., Bowling D.R., & Lin J.C.**, 2021  
    Improving CLM5.0 Biomass and Carbon Exchange across the Western US Using a Data Assimilation System.   
@@ -57,12 +57,12 @@ The Data Assimilation Research Testbed: A Community Facility.
 ![](/images/pin4.gif) **Kodikara, T., Zhang, K., Pedatella, N. M., & Borries, C.**, 2021  
    The impact of solar activity on forecasting the upper atmosphere via assimilation 
    of electron density data.    
-   *Space Weather*, **19**, e2020SW002660.
+   *Space Weather*, **19**, e2020SW002660,
    [doi.org/10.1029/2020SW002660](https://doi.org/10.1029/2020SW002660)
 
 ![](/images/pin4.gif) **Zhang, Q., Li, M., Wei, C., Mizzi, A. P., Huang, Y., & Gu, Q.**, 2021  
     Assimilation of OCO-2 retrievals with WRF-Chem/DART: A case study for the Midwestern United States.  
-    *Atmospheric Environment*, **246**, 118106.
+    *Atmospheric Environment*, **246**, 118106,
     [doi.org/10.1016/j.atmosenv.2020.118106](https://doi.org/10.1016/j.atmosenv.2020.118106)
    
 ![](/images/pin4.gif) **Hsu, C. T., Matsuo, T., Maute, A., Stoneback, R., & Lien, C. P.**. 2021  
@@ -72,13 +72,13 @@ The Data Assimilation Research Testbed: A Community Facility.
    
 ![](/images/pin4.gif) **George, B., & Kutty, G.**, 2021   
    Ensemble sensitivity analysis of an extreme rainfall event over the Himalayas in June 2013.   
-   *Dynamics of Atmospheres and Oceans*, **93**, 101202.
+   *Dynamics of Atmospheres and Oceans*, **93**, 101202,
    [doi.org/10.1016/j.dynatmoce.2021.101202](https://doi.org/10.1016/j.dynatmoce.2021.101202)
 
 ![](/images/pin4.gif) **Toye, H., Zhan, P., Sana, F., Sanikommu, S., Raboudi, N., & Hoteit, I.**, 2021  
     Adaptive ensemble optimal interpolation for efficient data assimilation in the red sea.  
-    *Journal of Computational Science*, **51**, 101317.
-    [doi.org/10.1016/j.dynatmoce.2021.101202](https://doi.org/10.1016/j.dynatmoce.2021.101202)
+    *Journal of Computational Science*, **51**, 101317,
+    [doi.org/10.1016/j.jocs.2021.101317](https://doi.org/10.1016/j.jocs.2021.101317)
    
 ![](/images/pin4.gif) **El Gharamti, M., McCreight, J. L., Noh, S. J., Hoar, T. J., RafieeiNasab, A., & Johnson, B. K.**, 2021   
    Ensemble Streamflow Data Assimilation using WRF-Hydro and DART: Hurricane Florence Flooding. 
@@ -138,52 +138,52 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Wong, M., Romine, G., & Snyder, C.**, 2020  
    Model improvement via systematic investigation of physics tendencies.   
-   *Monthly Weather Review*, **148(2)**, 671-688.
-   [doi.org/10.1111/nph.16055](https://doi.org/10.1111/nph.16055)
+   *Monthly Weather Review*, **148(2)**, 671-688,
+   [doi.org/10.1175/MWR-D-19-0255.1](https://doi.org/10.1175/MWR-D-19-0255.1)
 
 ![](/images/pin4.gif) **Siongco, A. C., Ma, H. Y., Klein, S. A., Xie, S., Karspeck, A. R., Raeder, K., & Anderson, J. L.**, 2020  
    A hindcast approach to diagnosing the equatorial Pacific cold tongue SST bias in CESM1.  
-   *Journal of Climate*, **33(4)**, 1437-1453.
+   *Journal of Climate*, **33(4)**, 1437-1453,
    [doi.org/10.1175/JCLI-D-19-0513.1](https://doi.org/10.1175/JCLI-D-19-0513.1)
 
 ![](/images/pin4.gif) **Eliashiv, J., Subramanian, A. C., & Miller, A. J.**, 2020   
    Tropical climate variability in the Community Earth System Model: Data Assimilation Research Testbed.  
-   *Climate Dynamics*, **54(1)**, 793-806.
+   *Climate Dynamics*, **54(1)**, 793-806,
    [doi.org/10.1007/s00382-019-05030-6](https://doi.org/10.1007/s00382-019-05030-6)
 
 ![](/images/pin4.gif) **Ma, C., Wang, T., Jiang, Z., Wu, H., Zhao, M., Zhuang, B., ... & Wu, R.**, 2020  
    Importance of bias correction in data assimilation of multiple observations over eastern China using WRF‐Chem/DART.  
-   *Journal of Geophysical Research: Atmospheres*, **125(1)**, e2019JD031465.
+   *Journal of Geophysical Research: Atmospheres*, **125(1)**, e2019JD031465,
    [doi.org/10.1029/2019JD031465](https://doi.org/10.1029/2019JD031465)
 
 ![](/images/pin4.gif) **Singh, T.**, 2020  
    Development of an ensemble data assimilation system with LMDZ5 AGCM for regional reanalysis.   
-   *Climate Dynamics*, **54(5)**, 2847-2868.
+   *Climate Dynamics*, **54(5)**, 2847-2868,
    [doi.org/10.1007/s00382-020-05147-z](https://doi.org/10.1007/s00382-020-05147-z)
 
 ![](/images/pin4.gif) **Anderson, J. L.**, 2020   
    A Marginal Adjustment Rank Histogram Filter for Non-Gaussian Ensemble Data Assimilation.  
-   *Monthly Weather Review*, **148(8)**, 3361-3378.
+   *Monthly Weather Review*, **148(8)**, 3361-3378,
    [doi.org/10.1175/MWR-D-19-0307.1](https://doi.org/10.1175/MWR-D-19-0307.1)
 
 ![](/images/pin4.gif) **Liu, H., Kuo, Y. H., Sokolovskiy, S., Zou, X., & Zeng, Z.**, 2020  
    Analysis bias induced in assimilation of the radio occultation bending angle with complex structures in the tropical troposphere.  
-   *Quarterly Journal of the Royal Meteorological Society*, **146(733)**, 4030-4037.
+   *Quarterly Journal of the Royal Meteorological Society*, **146(733)**, 4030-4037,
    [doi.org/10.1002/qj.3887](https://doi.org/10.1002/qj.3887)
 
 ![](/images/pin4.gif) **Pedatella, N. M., Anderson, J. L., Chen, C. H., Raeder, K., Liu, J., Liu, H. L., & Lin, C. H.**, 2020   
    Assimilation of Ionosphere Observations in the Whole Atmosphere Community Climate Model with Thermosphere‐Ionosphere EXtension (WACCMX).   
-   *Journal of Geophysical Research: Space Physics*, **125(9)**, e2020JA028251.
+   *Journal of Geophysical Research: Space Physics*, **125(9)**, e2020JA028251,
    [doi.org/10.1029/2020JA028251](https://doi.org/10.1029/2020JA028251)
 
 ![](/images/pin4.gif) **Toye, H., Sanikommu, S., Raboudi, N. F., & Hoteit, I.**, 2020  
    A hybrid ensemble adjustment Kalman filter based high‐resolution data assimilation system for the Red Sea: Implementation and evaluation.   
-  *Quarterly Journal of the Royal Meteorological Society*, **146(733)**, 4108-4130.
+  *Quarterly Journal of the Royal Meteorological Society*, **146(733)**, 4108-4130,
   [doi.org/10.1002/qj.3894](https://doi.org/10.1002/qj.3894)
 
 ![](/images/pin4.gif) **Ma, H., Siongco, A. C., Klein, S. A., Xie, S., Karspeck, A. R., Raeder, K., Anderson, J. L., Lee, J., Kirtman, B. P., Merryfield, W. J., Murakami, H., & Tribbia, J. J.**, 2020  
    On the correspondence between seasonal forecast biases and long-term climate biases in sea surface temperature.  
-   *Journal of Climate*, **34(1)**, 427-446.
+   *Journal of Climate*, **34(1)**, 427-446,
    [doi.org/10.1175/JCLI-D-20-0338.1](https://doi.org/10.1175/JCLI-D-20-0338.1)
 
 ![](/images/pin4.gif) **Brown, M., Smith, B., Capon, C., Abay, R., Polo, M. C., Gehly, S., ... & Boyce, R.**, 2020  
