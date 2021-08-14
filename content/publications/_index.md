@@ -32,6 +32,11 @@ The Data Assimilation Research Testbed: A Community Facility.
 ## 2021
 ---
 
+![](/images/pin4.gif) **Risanto, C. B., C. L. Castro, A. F. Arellano, J. M. Moker, and D. K. Adams**, 2021  
+   The Impact of Assimilating GPS Precipitable Water Vapor in Convective-Permitting WRF-ARW on North American Monsoon Precipitation Forecasts over Northwest Mexico.  
+   *Monthly Weather Review*, **1**, [doi.org/10.1175/MWR-D-20-0394.1](https://doi.org/10.1175/MWR-D-20-0394.1)
+
+
 ![](/images/pin4.gif) **Liu, G., R. S. Lieberman, V. L. Harvey, N. M. Pedatella, J. Oberheide, R. E. Hibbins, P. J. Espy, and D. Janches**, 2021  
    Tidal Variations in the Mesosphere and Lower Thermosphere Before, During, and After the 2009 Sudden Stratospheric Warming.  
    *Journal of Geophysical Research: Space Physics*, **126**, e2020JA028827, [doi.org/10.1029/2020JA028827](https://doi.org/10.1029/2020JA028827)
