@@ -34,7 +34,7 @@ The Data Assimilation Research Testbed: A Community Facility.
 
 ![](/images/pin4.gif) **Risanto, C. B., C. L. Castro, A. F. Arellano, J. M. Moker, and D. K. Adams**, 2021  
    The Impact of Assimilating GPS Precipitable Water Vapor in Convective-Permitting WRF-ARW on North American Monsoon Precipitation Forecasts over Northwest Mexico.  
-   *Monthly Weather Review*, **1**, [doi.org/10.1175/MWR-D-20-0394.1](https://doi.org/10.1175/MWR-D-20-0394.1)
+   *Monthly Weather Review*, **149(9)**, 3013-3035, [doi.org/10.1175/MWR-D-20-0394.1](https://doi.org/10.1175/MWR-D-20-0394.1)
 
 
 ![](/images/pin4.gif) **Liu, G., R. S. Lieberman, V. L. Harvey, N. M. Pedatella, J. Oberheide, R. E. Hibbins, P. J. Espy, and D. Janches**, 2021  
