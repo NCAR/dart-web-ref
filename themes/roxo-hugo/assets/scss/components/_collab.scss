@@ -11,6 +11,10 @@
   td {
     color: #FFF;
   }
+
+  table {
+    table-layout: fixed;
+  }
   @include mobile{
     padding: 100px 0 100px;
   }

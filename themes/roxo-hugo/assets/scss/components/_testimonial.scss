@@ -4,6 +4,9 @@
   margin-bottom: -100px;
   padding: 100px 0;
   overflow: hidden;
+  @include mobile{
+    margin-top: -70px;
+  }
   &-item{
     background: $secondary-color;
     padding: 30px;
