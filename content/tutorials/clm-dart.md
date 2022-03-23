@@ -1,10 +1,10 @@
 ---
 title: "CLM5-DART Tutorial"
-weight: 3
 date: 2022-03-23T11:35:06-06:00
 image: images/tutorial/Land_model_WG.jpg
 feature_image: images/tutorial/Land_model_WG2.jpg
 category: Fortran
+weight: 3
 author: dart
 ---
 
@@ -12,9 +12,9 @@ The CLM5-DART tutorial provides a detailed description of the download, setup, e
 diagnostic steps required for a simple global assimilation run using CLM5.  It is intended
 to be performed after the completion of the more general 
 [DART tutorial](https://docs.dart.ucar.edu/en/stable/theory/readme.html) which covers the
-fundamental concepts of the Ensemble Kalman Filter used within DART.  The tutorial 
-provides fundamental concepts unique to a CLM assimilation, and provides the user with guidance
-on how they might set up a custom CLM assimilation to suite their own research needs.  
+fundamental concepts of the Ensemble Kalman Filter used within DART.  This tutorial 
+provides fundamental concepts unique to a CLM assimilation, and offers some guidance
+to set up a custom CLM assimilation to suite the user's own research needs.  
 
 
 The CLM5-DART tutorial is bundled with [DART](https://github.com/NCAR/DART.git). 
