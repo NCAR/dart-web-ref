@@ -1,10 +1,10 @@
 ---
 title: "CLM5-DART Tutorial"
-date: 2022-03-23T11:35:06-06:00
+date: 2022-03-23T11:35:06+06:00
 image: images/tutorial/Land_model_WG.jpg
 feature_image: images/tutorial/Land_model_WG2.jpg
 category: Fortran
-weight: 3
+weight: 4
 author: dart
 ---
 
