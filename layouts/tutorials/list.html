@@ -1,20 +1,31 @@
 {{ define "main" }}
 
-<section class="site-blog-header">
+<section class="site-tutorials-header">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
+    <div class="row justify-content-right">
+      <div class="col-lg-12 text-center">
         <h1>{{ .Title }}</h1>
-        <p>
-          {{ .Params.description }}
-        </p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="site-blog">
+<section class="site-tutorials-content">
   <div class="container">
+
+    <div class="row">
+      <div class="col-lg-4 mx-auto">
+        <video width=100% autoplay loop muted>
+          <source src="{{ .Params.animation }}" />
+        </video>
+      </div>
+      <div class="col-lg-8 mx-auto">
+        <h4>{{ .Params.first_line }}</h4>
+        <h4>{{ .Params.second_line }}</h4>
+        <h4>{{ .Params.third_line }}</h4>
+      </div>
+    </div>
+
     <div class="row">
       {{ range (.Paginator 4).Pages.ByWeight }}
       <div class="col-lg-6">
@@ -43,7 +54,5 @@
     </div>
   </div>
 </section>
-
-{{ partial "call-to-action.html" . }}
 
 {{ end }}

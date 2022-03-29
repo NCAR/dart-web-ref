@@ -1,11 +1,11 @@
 enable : true
-heading : "IMPACT OF DART"
+heading : "DART's benefit to the community"
 counter_item: 
   - title: "Models supported"
-    number: "20"
+    number: "25+"
 
   - title: "Publications"
-    number: "100"
+    number: "200+"
     url: "publications"
 
   - title: "ASP postdocs"

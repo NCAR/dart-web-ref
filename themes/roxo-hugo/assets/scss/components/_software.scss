@@ -2,16 +2,21 @@
   &-header{
     padding-top: 180px;
     background-color: $gray;
+    background-image: url('/images/banners/clouds.jpg');
+    background-size: cover;
     @include mobile{
       padding-top: 100px;
       text-align: center;
     }
     h1{
-      color: $text-color-dark; 
-      font-weight: 600;
-      font-size: 55px;
+      color: $white;
+      letter-spacing: 2px;
+      font-weight: 800;
+      font-size: 36px;
       line-height: 60px;
-      padding-bottom: 20px;
+      padding-bottom: 0px;
+      text-transform: uppercase;
+      margin-bottom: 50px;
     } 
     h6{ 
      color: $primary-color;
@@ -30,8 +35,14 @@
   &-content{
     background: $gray;
     width: 100%;
-    padding: 20px 20px;
+    padding: 50px 20px;
     padding-bottom: 40px;
+
+    p{
+      line-height: 30px;
+      font-size: 18px;
+      margin-bottom: 20px;
+    }
     
     span{
       color: $secondary-color;
@@ -44,21 +55,19 @@
     flex-wrap: wrap;
   }
   &-git{
+    display: block;
     background: $primary-color;
     border-radius: 25px;
-    width: 40%;
-    padding: 25px 10px;
-    @include desktop{
-      width: 100%;
-      margin-bottom: 20px;
-    }
+    width: 100%;
+    padding: 30px 10px;
+    margin: 0 0 40px;
+    
     h1{
       color: $white;
-      font-weight: 400;
-      font-size: 35px;
-      line-height: 60px;
-      letter-spacing: 1px;
-      text-transform: none;
+      font-weight: 700;
+      font-size: 26px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
     }
     a{  
       color: $white;
@@ -69,18 +78,17 @@
   &-docs{
     @extend .site-software-git;
     background: $secondary-color;
-    h1{
-    font-size: 24px;
+    color: $white;
+    .icon-data-assimilation {
+      color: $white;
+      font-size: 26px;
     }
-  }
-  &-spacer{
-    width:80px;
   }
   &-buttons{
     margin: 0;
     padding: 0;
     li{ 
-      display: inline-block;
+      display: block;
       @include mobile{
         display: block;
       }   

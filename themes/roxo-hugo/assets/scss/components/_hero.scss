@@ -1,6 +1,7 @@
 .site-hero{
   position: relative;
-  height: 100vh;
+  height: 550px;
+  margin-top: 50px;
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -18,6 +19,8 @@
   &-content{
     h1{
       margin-bottom: 15px;
+      text-align: center;
+      color: $white;
       @include desktop-lg{
         font-size: 50px;
         margin-bottom: 50px;
@@ -26,33 +29,43 @@
         font-size: 40px;
         text-align: center;
       }
+      a, a:hover {
+        color: $white;
+        text-decoration: none;
+      }
     }
-    h6{
-      font-size: 15px;
+    h3{
+      font-size: 30px;
       margin-bottom: 15px;
-      @include mobile{
       text-align: center;
+      color: $highlight-color;
+      @include mobile{
+      }
+      a, a:hover {
+        color: $highlight-color;
+        text-decoration: none;
       }
     }
     &-buttons{
-      margin: 0;
+      margin: 20px auto 100px auto;
       padding: 0;
       li{
-        display: inline-block;
+        margin: 0px auto;
+        display: block;
         @include mobile{
+          margin: 0px auto;
           display: block;
-        }
-        &:not(:last-child){
-          margin-right: 30px;
-          @include mobile{
-            margin-right: 0;
-            margin-bottom: 20px;
-          }
         }
         .btn{
           font-weight: 600;
+          border: solid 5px $highlight-color;
+          background: none;
+          margin: 0 auto;
+          width: 50%;
+          overflow: wrap;
+          display: block;
           @include mobile{
-            width: 90%;
+            /*width: 90%;*/
             margin: 0 auto;
             display: block;
           }
@@ -61,8 +74,37 @@
     }
   }
   &-scroll{
+    display: none;
     position: absolute;
     left: 50%; bottom: 100px;
     transform: translateX(-50%);
   }
+}
+
+.carousel {
+  margin-top: 110px;
+  height: 550px;
+}
+
+.carousel .carousel-inner {
+  height: 550px;
+}
+
+.carousel-inner {
+  position: relative;
+}
+
+.carousel-img {
+  width: 100%;
+  height: 550px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.carousel-img .site-hero-content {
+  margin-top: 75px;
+}
+
+.carousel-img h3 {
+  margin-bottom: 75px;
 }

@@ -1,5 +1,5 @@
 enable  : true
-title   : The DAReS team
+title   : DAReS Staff
 members  :
   - image       : images/team/iceberg.jpg
     name        : JEFFREY ANDERSON
@@ -13,18 +13,6 @@ members  :
     ncarpage    : https://staff.ucar.edu/users/gharamti
     github      : https://github.com/mgharamti
 
-  - image       : images/team/iceberg3.jpg
-    name        : BEN JOHNSON
-    designation : Associate Scientist
-    ncarpage    : https://staff.ucar.edu/users/johnsonb
-    github      : https://github.com/johnsonb-ucar
-
-  - image       : images/team/TimHeadShot.jpeg
-    name        : TIM HOAR
-    designation : Associate Scientist
-    ncarpage    : https://staff.ucar.edu/users/thoar
-    github      : https://github.com/timhoar
-
   - image       : images/team/KevinHeadShot.jpg
     name        : KEVIN RAEDER
     designation : Associate Scientist
@@ -36,6 +24,12 @@ members  :
     designation : Software Engineer
     ncarpage    : https://staff.ucar.edu/users/hkershaw/
     github      : https://github.com/hkershaw-brown
+
+  - image       : images/team/iceberg3.jpg
+    name        : BEN JOHNSON
+    designation : Project Scientist
+    ncarpage    : https://staff.ucar.edu/users/johnsonb
+    github      : https://github.com/johnsonbk
 
   - image       : images/team/iceberg4.jpg
     name        : BRETT RACZKA
